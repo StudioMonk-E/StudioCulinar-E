@@ -7,11 +7,16 @@
       "sugar": 0.5,
       "pineapple": 0.5
     },
-    "taste": ["savoury", "umami"],
+    "taste": [
+      "savoury",
+      "umami"
+    ],
     "diet": [],
-    "type": "umami"
+    "type": "umami",
+    "origin": "Ancient fermentation practice; Roman garum (Mediterranean) and independent Southeast Asian traditions",
+    "routes": "Roman garum trade across the Mediterranean → declined in Europe post-Rome → continuous tradition in Vietnam, Thailand, Cambodia",
+    "context": "Roman garum was industrial-scale and class-stratified by grade. Southeast Asian fish sauce traditions survived colonialism intact, remaining foundational to regional cuisines."
   },
-
   "anchovy": {
     "pairings": {
       "tomato": 0.8,
@@ -20,11 +25,13 @@
       "lemon": 0.6,
       "butter": 0.5
     },
-    "taste": ["savoury", "umami"],
+    "taste": [
+      "savoury",
+      "umami"
+    ],
     "diet": [],
     "type": "protein"
   },
-
   "kimchi": {
     "pairings": {
       "soy sauce": 0.7,
@@ -33,11 +40,19 @@
       "tofu": 0.7,
       "rice": 0.6
     },
-    "taste": ["savoury", "spicy", "acidic"],
-    "diet": ["vegetarian"],
-    "type": "fermented"
+    "taste": [
+      "savoury",
+      "spicy",
+      "acidic"
+    ],
+    "diet": [
+      "vegetarian"
+    ],
+    "type": "fermented",
+    "origin": "Korean peninsula; fermented vegetable traditions predate chili — chili-based kimchi emerged post-17th century",
+    "routes": "Korean preservation tradition → chili introduced via Japanese/Portuguese contact → global spread via Korean diaspora and soft power",
+    "context": "A national identity marker. UNESCO-listed as intangible cultural heritage. Kimjang (communal kimchi-making) encodes Korean collective labor practices and seasonal knowledge."
   },
-
   "sauerkraut": {
     "pairings": {
       "apple": 0.7,
@@ -46,11 +61,16 @@
       "butter": 0.5,
       "caraway": 0.6
     },
-    "taste": ["acidic", "savoury"],
-    "diet": ["vegan", "vegetarian"],
+    "taste": [
+      "acidic",
+      "savoury"
+    ],
+    "diet": [
+      "vegan",
+      "vegetarian"
+    ],
     "type": "fermented"
   },
-
   "blue cheese": {
     "pairings": {
       "honey": 0.7,
@@ -59,11 +79,15 @@
       "butter": 0.5,
       "thyme": 0.5
     },
-    "taste": ["savoury", "umami"],
-    "diet": ["vegetarian"],
+    "taste": [
+      "savoury",
+      "umami"
+    ],
+    "diet": [
+      "vegetarian"
+    ],
     "type": "dairy"
   },
-
   "kefir": {
     "pairings": {
       "honey": 0.7,
@@ -72,11 +96,15 @@
       "lemon": 0.5,
       "strawberry": 0.5
     },
-    "taste": ["acidic", "fresh"],
-    "diet": ["vegetarian"],
+    "taste": [
+      "acidic",
+      "fresh"
+    ],
+    "diet": [
+      "vegetarian"
+    ],
     "type": "fermented"
   },
-
   "gochujang": {
     "pairings": {
       "soy sauce": 0.7,
@@ -85,11 +113,16 @@
       "egg": 0.6,
       "tofu": 0.7
     },
-    "taste": ["savoury", "spicy", "sweet"],
-    "diet": ["vegetarian"],
+    "taste": [
+      "savoury",
+      "spicy",
+      "sweet"
+    ],
+    "diet": [
+      "vegetarian"
+    ],
     "type": "fermented"
   },
-
   "chicken": {
     "pairings": {
       "lemon": 0.7,
@@ -98,11 +131,12 @@
       "butter": 0.6,
       "soy sauce": 0.6
     },
-    "taste": ["savoury"],
+    "taste": [
+      "savoury"
+    ],
     "diet": [],
     "type": "protein"
   },
-
   "shrimp": {
     "pairings": {
       "lime": 0.7,
@@ -111,11 +145,13 @@
       "butter": 0.6,
       "soy sauce": 0.6
     },
-    "taste": ["savoury", "umami"],
+    "taste": [
+      "savoury",
+      "umami"
+    ],
     "diet": [],
     "type": "protein"
   },
-
   "lentils": {
     "pairings": {
       "cumin": 0.7,
@@ -124,11 +160,15 @@
       "yoghurt": 0.6,
       "olive oil": 0.5
     },
-    "taste": ["savoury"],
-    "diet": ["vegan", "vegetarian"],
+    "taste": [
+      "savoury"
+    ],
+    "diet": [
+      "vegan",
+      "vegetarian"
+    ],
     "type": "protein"
   },
-
   "yoghurt": {
     "pairings": {
       "honey": 0.7,
@@ -137,11 +177,15 @@
       "mint": 0.7,
       "garlic": 0.6
     },
-    "taste": ["savoury", "acidic"],
-    "diet": ["vegetarian"],
+    "taste": [
+      "savoury",
+      "acidic"
+    ],
+    "diet": [
+      "vegetarian"
+    ],
     "type": "dairy"
   },
-
   "tahini": {
     "pairings": {
       "lemon": 0.8,
@@ -150,11 +194,19 @@
       "chickpeas": 0.9,
       "cinnamon": 0.5
     },
-    "taste": ["savoury", "bitter"],
-    "diet": ["vegan", "vegetarian"],
-    "type": "fat"
+    "taste": [
+      "savoury",
+      "bitter"
+    ],
+    "diet": [
+      "vegan",
+      "vegetarian"
+    ],
+    "type": "fat",
+    "origin": "Mesopotamia/Levant; sesame among the oldest oilseed crops, cultivated ~3500 BCE",
+    "routes": "Mesopotamia → spread across the Levant, North Africa, East Africa → enslaved Africans carried sesame to the American South",
+    "context": "Sesame's presence in the American South (benne seeds) is direct evidence of African foodways surviving the Middle Passage. Tahini itself is a political object in Palestinian food sovereignty discourse."
   },
-
   "peanut butter": {
     "pairings": {
       "chocolate": 0.8,
@@ -163,11 +215,16 @@
       "lime": 0.6,
       "chili": 0.6
     },
-    "taste": ["sweet", "savoury"],
-    "diet": ["vegan", "vegetarian"],
+    "taste": [
+      "sweet",
+      "savoury"
+    ],
+    "diet": [
+      "vegan",
+      "vegetarian"
+    ],
     "type": "fat"
   },
-
   "mushroom": {
     "pairings": {
       "miso": 0.8,
@@ -176,11 +233,16 @@
       "soy sauce": 0.6,
       "butter": 0.6
     },
-    "taste": ["savoury", "umami"],
-    "diet": ["vegan", "vegetarian"],
+    "taste": [
+      "savoury",
+      "umami"
+    ],
+    "diet": [
+      "vegan",
+      "vegetarian"
+    ],
     "type": "vegetable"
   },
-
   "chickpeas": {
     "pairings": {
       "tahini": 0.9,
@@ -189,11 +251,15 @@
       "olive oil": 0.6,
       "garlic": 0.6
     },
-    "taste": ["savoury"],
-    "diet": ["vegan", "vegetarian"],
+    "taste": [
+      "savoury"
+    ],
+    "diet": [
+      "vegan",
+      "vegetarian"
+    ],
     "type": "protein"
   },
-
   "egg": {
     "pairings": {
       "mushroom": 0.7,
@@ -202,11 +268,15 @@
       "parmesan": 0.7,
       "honey": 0.4
     },
-    "taste": ["savoury", "umami"],
-    "diet": ["vegetarian"],
+    "taste": [
+      "savoury",
+      "umami"
+    ],
+    "diet": [
+      "vegetarian"
+    ],
     "type": "protein"
   },
-
   "butter": {
     "pairings": {
       "mushroom": 0.6,
@@ -215,11 +285,14 @@
       "honey": 0.6,
       "thyme": 0.6
     },
-    "taste": ["savoury"],
-    "diet": ["vegetarian"],
+    "taste": [
+      "savoury"
+    ],
+    "diet": [
+      "vegetarian"
+    ],
     "type": "fat"
   },
-
   "cucumber": {
     "pairings": {
       "yoghurt": 0.7,
@@ -228,11 +301,16 @@
       "soy sauce": 0.4,
       "chili": 0.5
     },
-    "taste": ["fresh", "savoury"],
-    "diet": ["vegan", "vegetarian"],
+    "taste": [
+      "fresh",
+      "savoury"
+    ],
+    "diet": [
+      "vegan",
+      "vegetarian"
+    ],
     "type": "vegetable"
   },
-
   "cumin": {
     "pairings": {
       "chickpeas": 0.7,
@@ -241,11 +319,19 @@
       "chili": 0.7,
       "cinnamon": 0.5
     },
-    "taste": ["savoury", "bitter"],
-    "diet": ["vegan", "vegetarian"],
-    "type": "spice"
+    "taste": [
+      "savoury",
+      "bitter"
+    ],
+    "diet": [
+      "vegan",
+      "vegetarian"
+    ],
+    "type": "spice",
+    "origin": "Eastern Mediterranean/Upper Egypt; cultivated since at least 2000 BCE",
+    "routes": "Ancient Egyptian/Mesopotamian kitchens → Roman Empire staple → Arab culinary tradition → Latin America via Spanish colonization",
+    "context": "Its dominance in Mexican, Indian, and North African cuisines traces parallel lines of Arab and Spanish imperial influence."
   },
-
   "pineapple": {
     "pairings": {
       "chili": 0.7,
@@ -254,141 +340,206 @@
       "coconut milk": 0.6,
       "mint": 0.5
     },
-    "taste": ["sweet", "acidic"],
-    "diet": ["vegan", "vegetarian"],
+    "taste": [
+      "sweet",
+      "acidic"
+    ],
+    "diet": [
+      "vegan",
+      "vegetarian"
+    ],
     "type": "fruit"
   },
-
   "coconut milk": {
-  "pairings": {
-    "lime": 0.7,
-    "ginger": 0.7,
-    "chili": 0.7,
-    "cinnamon": 0.6,
-    "pineapple": 0.6
+    "pairings": {
+      "lime": 0.7,
+      "ginger": 0.7,
+      "chili": 0.7,
+      "cinnamon": 0.6,
+      "pineapple": 0.6
+    },
+    "taste": [
+      "sweet",
+      "savoury"
+    ],
+    "diet": [
+      "vegan",
+      "vegetarian"
+    ],
+    "type": "fat",
+    "origin": "Likely dual domestication in Southeast Asia and the Pacific Islands",
+    "routes": "Austronesian maritime expansion across the Pacific and Indian Oceans → Portuguese/Dutch colonial plantation crop",
+    "context": "Traces Austronesian migration routes across Oceania. Colonial copra plantations in the Philippines and Pacific islands created extractive economies still felt today."
   },
-  "taste": ["sweet", "savoury"],
-  "diet": ["vegan", "vegetarian"],
-  "type": "fat"
- },
-
   "miso": {
-  "pairings": {
-    "soy sauce": 0.8,
-    "ginger": 0.7,
-    "mushroom": 0.8,
-    "eggplant": 0.6,
-    "honey": 0.5
+    "pairings": {
+      "soy sauce": 0.8,
+      "ginger": 0.7,
+      "mushroom": 0.8,
+      "eggplant": 0.6,
+      "honey": 0.5
+    },
+    "taste": [
+      "savoury",
+      "umami"
+    ],
+    "diet": [
+      "vegan",
+      "vegetarian"
+    ],
+    "type": "umami",
+    "origin": "China (fermented grain/soy pastes) → Japan, refined into a distinct product by the Muromachi period",
+    "routes": "Chinese jiang traditions → Korean doenjang → Japanese miso; remained largely regional until post-WWII macrobiotic movements",
+    "context": "Tied to Buddhist vegetarian cuisine and samurai-era military provisioning. Regional miso varieties in Japan encode local climate, grain availability, and class."
   },
-  "taste": ["savoury", "umami"],
-  "diet": ["vegan", "vegetarian"],
-  "type": "umami"
- },
-
   "honey": {
-  "pairings": {
-    "lemon": 0.7,
-    "yoghurt": 0.7,
-    "cinnamon": 0.7,
-    "mustard": 0.5,
-    "chili": 0.5
+    "pairings": {
+      "lemon": 0.7,
+      "yoghurt": 0.7,
+      "cinnamon": 0.7,
+      "mustard": 0.5,
+      "chili": 0.5
+    },
+    "taste": [
+      "sweet"
+    ],
+    "diet": [
+      "vegetarian"
+    ],
+    "type": "sweet"
   },
-  "taste": ["sweet"],
-  "diet": ["vegetarian"],
-  "type": "sweet"
- },
-
   "cardamom": {
-  "pairings": {
-    "orange": 0.7,
-    "coffee": 0.7,
-    "rice": 0.6,
-    "chocolate": 0.6,
-    "ginger": 0.6
+    "pairings": {
+      "orange": 0.7,
+      "coffee": 0.7,
+      "rice": 0.6,
+      "chocolate": 0.6,
+      "ginger": 0.6
+    },
+    "taste": [
+      "sweet",
+      "spicy"
+    ],
+    "diet": [
+      "vegan",
+      "vegetarian"
+    ],
+    "type": "spice",
+    "origin": "Western Ghats, India (true/green cardamom); black cardamom from Nepal/Bhutan highlands",
+    "routes": "Ancient Indian Ocean trade → Arab coffee culture adoption → Scandinavian import via Viking-era trade → Guatemalan colonial plantations",
+    "context": "Guatemala is now the world's largest producer — a legacy of German colonial coffee planters who introduced it as a secondary crop."
   },
-  "taste": ["sweet", "spicy"],
-  "diet": ["vegan", "vegetarian"],
-  "type": "spice"
- },
-
   "cinnamon": {
-  "pairings": {
-    "apple": 0.9,
-    "chocolate": 0.7,
-    "honey": 0.7,
-    "lamb": 0.5,
-    "orange": 0.7
+    "pairings": {
+      "apple": 0.9,
+      "chocolate": 0.7,
+      "honey": 0.7,
+      "lamb": 0.5,
+      "orange": 0.7
+    },
+    "taste": [
+      "sweet",
+      "spicy"
+    ],
+    "diet": [
+      "vegan",
+      "vegetarian"
+    ],
+    "type": "spice",
+    "origin": "Sri Lanka (true cinnamon, Cinnamomum verum); cassia variant from southern China",
+    "routes": "Ancient Egyptian imports → Arab-controlled trade → Portuguese colonization of Sri Lanka → Dutch VOC takeover",
+    "context": "Portuguese and Dutch fought wars over Sri Lankan cinnamon monopoly. Control of cinnamon production shaped centuries of colonial governance on the island."
   },
-  "taste": ["sweet", "spicy"],
-  "diet": ["vegan", "vegetarian"],
-  "type": "spice"
- },
-
   "apple cider vinegar": {
-  "pairings": {
-    "apple": 0.8,
-    "honey": 0.7,
-    "mustard": 0.6,
-    "olive oil": 0.6,
-    "cabbage": 0.7
+    "pairings": {
+      "apple": 0.8,
+      "honey": 0.7,
+      "mustard": 0.6,
+      "olive oil": 0.6,
+      "cabbage": 0.7
+    },
+    "taste": [
+      "acidic",
+      "sweet"
+    ],
+    "diet": [
+      "vegan",
+      "vegetarian"
+    ],
+    "type": "acid"
   },
-  "taste": ["acidic", "sweet"],
-  "diet": ["vegan", "vegetarian"],
-  "type": "acid"
- },
-
   "lime": {
-  "pairings": {
-    "ginger": 0.8,
-    "chili": 0.7,
-    "coconut milk": 0.7,
-    "mint": 0.7,
-    "soy sauce": 0.6
+    "pairings": {
+      "ginger": 0.8,
+      "chili": 0.7,
+      "coconut milk": 0.7,
+      "mint": 0.7,
+      "soy sauce": 0.6
+    },
+    "taste": [
+      "acidic",
+      "fresh"
+    ],
+    "diet": [
+      "vegan",
+      "vegetarian"
+    ],
+    "type": "acid"
   },
-  "taste": ["acidic", "fresh"],
-  "diet": ["vegan", "vegetarian"],
-  "type": "acid"
- },
-
   "oregano": {
-  "pairings": {
-    "tomato": 0.8,
-    "olive oil": 0.7,
-    "lemon": 0.5,
-    "feta": 0.6,
-    "chili": 0.5
+    "pairings": {
+      "tomato": 0.8,
+      "olive oil": 0.7,
+      "lemon": 0.5,
+      "feta": 0.6,
+      "chili": 0.5
+    },
+    "taste": [
+      "savoury",
+      "bitter"
+    ],
+    "diet": [
+      "vegan",
+      "vegetarian"
+    ],
+    "type": "herb"
   },
-  "taste": ["savoury", "bitter"],
-  "diet": ["vegan", "vegetarian"],
-  "type": "herb"
- },
-  
   "rosemary": {
-  "pairings": {
-    "olive oil": 0.7,
-    "lemon": 0.6,
-    "potato": 0.7,
-    "orange": 0.5,
-    "lamb": 0.6
+    "pairings": {
+      "olive oil": 0.7,
+      "lemon": 0.6,
+      "potato": 0.7,
+      "orange": 0.5,
+      "lamb": 0.6
+    },
+    "taste": [
+      "savoury",
+      "bitter"
+    ],
+    "diet": [
+      "vegan",
+      "vegetarian"
+    ],
+    "type": "herb"
   },
-  "taste": ["savoury", "bitter"],
-  "diet": ["vegan", "vegetarian"],
-  "type": "herb"
- },
-
   "thyme": {
-  "pairings": {
-    "tomato": 0.7,
-    "lemon": 0.6,
-    "mushroom": 0.7,
-    "chicken": 0.6,
-    "honey": 0.5
+    "pairings": {
+      "tomato": 0.7,
+      "lemon": 0.6,
+      "mushroom": 0.7,
+      "chicken": 0.6,
+      "honey": 0.5
+    },
+    "taste": [
+      "savoury",
+      "fresh"
+    ],
+    "diet": [
+      "vegan",
+      "vegetarian"
+    ],
+    "type": "herb"
   },
-  "taste": ["savoury", "fresh"],
-  "diet": ["vegan", "vegetarian"],
-  "type": "herb"
- },
-
   "basil": {
     "pairings": {
       "tomato": 0.9,
@@ -397,11 +548,16 @@
       "parmesan": 0.7,
       "peach": 0.6
     },
-    "taste": ["savoury", "fresh"],
-    "diet": ["vegan", "vegetarian"],
+    "taste": [
+      "savoury",
+      "fresh"
+    ],
+    "diet": [
+      "vegan",
+      "vegetarian"
+    ],
     "type": "herb"
   },
-
   "mint": {
     "pairings": {
       "strawberry": 0.8,
@@ -410,11 +566,16 @@
       "lemon": 0.7,
       "cucumber": 0.8
     },
-    "taste": ["fresh", "sweet"],
-    "diet": ["vegan", "vegetarian"],
+    "taste": [
+      "fresh",
+      "sweet"
+    ],
+    "diet": [
+      "vegan",
+      "vegetarian"
+    ],
     "type": "herb"
   },
-
   "tomato": {
     "pairings": {
       "basil": 0.9,
@@ -423,11 +584,17 @@
       "strawberry": 0.4,
       "balsamic vinegar": 0.7
     },
-    "taste": ["sweet", "savoury", "acidic"],
-    "diet": ["vegan", "vegetarian"],
+    "taste": [
+      "sweet",
+      "savoury",
+      "acidic"
+    ],
+    "diet": [
+      "vegan",
+      "vegetarian"
+    ],
     "type": "vegetable"
   },
-
   "strawberry": {
     "pairings": {
       "basil": 0.8,
@@ -436,11 +603,16 @@
       "black pepper": 0.6,
       "tomato": 0.4
     },
-    "taste": ["sweet", "acidic"],
-    "diet": ["vegan", "vegetarian"],
+    "taste": [
+      "sweet",
+      "acidic"
+    ],
+    "diet": [
+      "vegan",
+      "vegetarian"
+    ],
     "type": "fruit"
   },
-
   "lemon": {
     "pairings": {
       "basil": 0.6,
@@ -449,11 +621,16 @@
       "garlic": 0.6,
       "olive oil": 0.7
     },
-    "taste": ["acidic", "fresh"],
-    "diet": ["vegan", "vegetarian"],
+    "taste": [
+      "acidic",
+      "fresh"
+    ],
+    "diet": [
+      "vegan",
+      "vegetarian"
+    ],
     "type": "acid"
   },
-
   "balsamic vinegar": {
     "pairings": {
       "strawberry": 0.9,
@@ -461,11 +638,16 @@
       "peach": 0.7,
       "parmesan": 0.6
     },
-    "taste": ["sweet", "acidic"],
-    "diet": ["vegan", "vegetarian"],
+    "taste": [
+      "sweet",
+      "acidic"
+    ],
+    "diet": [
+      "vegan",
+      "vegetarian"
+    ],
     "type": "acid"
   },
-
   "garlic": {
     "pairings": {
       "tomato": 0.8,
@@ -473,11 +655,16 @@
       "lemon": 0.6,
       "soy sauce": 0.6
     },
-    "taste": ["savoury", "umami"],
-    "diet": ["vegan", "vegetarian"],
+    "taste": [
+      "savoury",
+      "umami"
+    ],
+    "diet": [
+      "vegan",
+      "vegetarian"
+    ],
     "type": "aromatic"
   },
-
   "ginger": {
     "pairings": {
       "soy sauce": 0.8,
@@ -485,11 +672,19 @@
       "chocolate": 0.5,
       "orange": 0.7
     },
-    "taste": ["spicy", "sweet"],
-    "diet": ["vegan", "vegetarian"],
-    "type": "aromatic"
+    "taste": [
+      "spicy",
+      "sweet"
+    ],
+    "diet": [
+      "vegan",
+      "vegetarian"
+    ],
+    "type": "aromatic",
+    "origin": "Maritime Southeast Asia; one of the first spices traded to the Mediterranean world",
+    "routes": "Austronesian trade → Indian adoption → Roman imports → Caribbean colonial cultivation (especially Jamaica)",
+    "context": "Jamaican ginger production was built on enslaved labor. One of the few Asian spices that naturalized into Caribbean and West African food systems as a staple, not a luxury."
   },
-
   "olive oil": {
     "pairings": {
       "tomato": 0.7,
@@ -497,33 +692,52 @@
       "lemon": 0.7,
       "parmesan": 0.6
     },
-    "taste": ["savoury"],
-    "diet": ["vegan", "vegetarian"],
-    "type": "fat"
+    "taste": [
+      "savoury"
+    ],
+    "diet": [
+      "vegan",
+      "vegetarian"
+    ],
+    "type": "fat",
+    "origin": "Eastern Mediterranean (likely Syria/Palestine); domesticated ~6000 BCE",
+    "routes": "Phoenician/Greek/Roman colonial expansion planted olive groves across the Mediterranean → Spanish missionaries brought it to the Americas",
+    "context": "Olive cultivation literally mapped Greek and Roman imperial borders. Mediterranean diet discourse often obscures the colonial plantation logic behind olive monocultures."
   },
-
   "parmesan": {
     "pairings": {
       "basil": 0.7,
       "tomato": 0.8,
       "balsamic vinegar": 0.6
     },
-    "taste": ["savoury", "umami"],
-    "diet": ["vegetarian"],
+    "taste": [
+      "savoury",
+      "umami"
+    ],
+    "diet": [
+      "vegetarian"
+    ],
     "type": "cheese"
   },
-
   "black pepper": {
     "pairings": {
       "strawberry": 0.6,
       "tomato": 0.6,
       "chocolate": 0.7
     },
-    "taste": ["spicy", "savoury"],
-    "diet": ["vegan", "vegetarian"],
-    "type": "spice"
+    "taste": [
+      "spicy",
+      "savoury"
+    ],
+    "diet": [
+      "vegan",
+      "vegetarian"
+    ],
+    "type": "spice",
+    "origin": "Western Ghats, Kerala, India; traded since at least 2000 BCE",
+    "routes": "Roman spice trade → Arab middlemen → Portuguese seizure of Malabar Coast → Dutch VOC monopoly",
+    "context": "Called 'black gold' — its value drove Vasco da Gama's voyage and the violent Portuguese colonization of India's southwest coast."
   },
-
   "chocolate": {
     "pairings": {
       "mint": 0.7,
@@ -531,55 +745,81 @@
       "orange": 0.8,
       "ginger": 0.5
     },
-    "taste": ["sweet", "bitter"],
-    "diet": ["vegetarian"],
-    "type": "sweet"
+    "taste": [
+      "sweet",
+      "bitter"
+    ],
+    "diet": [
+      "vegetarian"
+    ],
+    "type": "sweet",
+    "origin": "Mesoamerica (Olmec, Maya, Aztec); cacao domesticated ~1900 BCE in present-day Mexico/Guatemala",
+    "routes": "Sacred Mesoamerican drink → Spanish conquest → European sweetened commodity → West African plantation crop",
+    "context": "Stripped of its ritual significance by European commodification. Modern production relies heavily on child and forced labor in Ivory Coast and Ghana."
   },
-
   "orange": {
     "pairings": {
       "chocolate": 0.8,
       "ginger": 0.7,
       "olive oil": 0.4
     },
-    "taste": ["sweet", "acidic"],
-    "diet": ["vegan", "vegetarian"],
+    "taste": [
+      "sweet",
+      "acidic"
+    ],
+    "diet": [
+      "vegan",
+      "vegetarian"
+    ],
     "type": "fruit"
   },
-
   "peach": {
     "pairings": {
       "basil": 0.6,
       "balsamic vinegar": 0.7,
       "mint": 0.6
     },
-    "taste": ["sweet"],
-    "diet": ["vegan", "vegetarian"],
+    "taste": [
+      "sweet"
+    ],
+    "diet": [
+      "vegan",
+      "vegetarian"
+    ],
     "type": "fruit"
   },
-
   "soy sauce": {
     "pairings": {
       "ginger": 0.8,
       "garlic": 0.6,
       "salmon": 0.7
     },
-    "taste": ["savoury", "umami"],
-    "diet": ["vegan", "vegetarian"],
-    "type": "umami"
+    "taste": [
+      "savoury",
+      "umami"
+    ],
+    "diet": [
+      "vegan",
+      "vegetarian"
+    ],
+    "type": "umami",
+    "origin": "China, evolved from ancient fermented soy pastes (jiang) during the Han dynasty (~200 BCE)",
+    "routes": "China → Japan (developed shoyu tradition) → Dutch VOC exports to Europe by 17th century → global industrial production",
+    "context": "Japanese shoyu and Chinese soy sauce diverged into distinct fermentation traditions. Kikkoman's 20th-century expansion exemplifies how industrialization standardized artisanal processes."
   },
-
   "salmon": {
     "pairings": {
       "lemon": 0.8,
       "soy sauce": 0.7,
       "ginger": 0.6
     },
-    "taste": ["savoury", "umami"],
+    "taste": [
+      "savoury",
+      "umami"
+    ],
     "diet": [],
     "type": "protein"
   },
-
   "apple": {
     "pairings": {
       "cinnamon": 0.9,
@@ -588,11 +828,16 @@
       "pork": 0.7,
       "walnut": 0.6
     },
-    "taste": ["sweet", "acidic"],
-    "diet": ["vegan", "vegetarian"],
+    "taste": [
+      "sweet",
+      "acidic"
+    ],
+    "diet": [
+      "vegan",
+      "vegetarian"
+    ],
     "type": "fruit"
   },
-
   "cabbage": {
     "pairings": {
       "apple cider vinegar": 0.7,
@@ -601,11 +846,16 @@
       "sesame oil": 0.5,
       "ginger": 0.5
     },
-    "taste": ["savoury", "fresh"],
-    "diet": ["vegan", "vegetarian"],
+    "taste": [
+      "savoury",
+      "fresh"
+    ],
+    "diet": [
+      "vegan",
+      "vegetarian"
+    ],
     "type": "vegetable"
   },
-
   "caraway": {
     "pairings": {
       "sauerkraut": 0.6,
@@ -614,11 +864,16 @@
       "mustard": 0.5,
       "onion": 0.5
     },
-    "taste": ["savoury", "bitter"],
-    "diet": ["vegan", "vegetarian"],
+    "taste": [
+      "savoury",
+      "bitter"
+    ],
+    "diet": [
+      "vegan",
+      "vegetarian"
+    ],
     "type": "spice"
   },
-
   "chili": {
     "pairings": {
       "lime": 0.7,
@@ -627,11 +882,19 @@
       "mango": 0.7,
       "honey": 0.5
     },
-    "taste": ["spicy", "savoury"],
-    "diet": ["vegan", "vegetarian"],
-    "type": "spice"
+    "taste": [
+      "spicy",
+      "savoury"
+    ],
+    "diet": [
+      "vegan",
+      "vegetarian"
+    ],
+    "type": "spice",
+    "origin": "Mesoamerica/Amazonia; domesticated ~7000 BCE in present-day Mexico",
+    "routes": "Columbian Exchange → Portuguese carried it to Africa, India, and Southeast Asia within decades of contact",
+    "context": "Adopted so rapidly across Asia and Africa that many cuisines now treat it as indigenous. One of the most successful biological transfers in human history."
   },
-
   "coffee": {
     "pairings": {
       "cardamom": 0.7,
@@ -640,11 +903,19 @@
       "vanilla": 0.8,
       "walnut": 0.5
     },
-    "taste": ["bitter", "sweet"],
-    "diet": ["vegan", "vegetarian"],
-    "type": "aromatic"
+    "taste": [
+      "bitter",
+      "sweet"
+    ],
+    "diet": [
+      "vegan",
+      "vegetarian"
+    ],
+    "type": "aromatic",
+    "origin": "Ethiopian highlands (Kaffa region); cultivated in Yemen by the 15th century",
+    "routes": "Sufi monasteries → Ottoman coffeehouses → Dutch colonial plantations in Java → Brazilian fazendas",
+    "context": "Built on enslaved and coerced labor from Java to Brazil. Coffeehouses catalyzed Enlightenment discourse in Europe while plantations devastated colonial landscapes."
   },
-
   "eggplant": {
     "pairings": {
       "miso": 0.6,
@@ -653,11 +924,15 @@
       "tahini": 0.7,
       "olive oil": 0.6
     },
-    "taste": ["savoury"],
-    "diet": ["vegan", "vegetarian"],
+    "taste": [
+      "savoury"
+    ],
+    "diet": [
+      "vegan",
+      "vegetarian"
+    ],
     "type": "vegetable"
   },
-
   "feta": {
     "pairings": {
       "oregano": 0.6,
@@ -666,11 +941,15 @@
       "honey": 0.6,
       "cucumber": 0.6
     },
-    "taste": ["savoury", "acidic"],
-    "diet": ["vegetarian"],
+    "taste": [
+      "savoury",
+      "acidic"
+    ],
+    "diet": [
+      "vegetarian"
+    ],
     "type": "cheese"
   },
-
   "lamb": {
     "pairings": {
       "rosemary": 0.6,
@@ -679,11 +958,13 @@
       "garlic": 0.7,
       "cumin": 0.7
     },
-    "taste": ["savoury", "umami"],
+    "taste": [
+      "savoury",
+      "umami"
+    ],
     "diet": [],
     "type": "protein"
   },
-
   "mustard": {
     "pairings": {
       "honey": 0.6,
@@ -692,11 +973,16 @@
       "apple cider vinegar": 0.6,
       "dill": 0.5
     },
-    "taste": ["spicy", "acidic"],
-    "diet": ["vegan", "vegetarian"],
+    "taste": [
+      "spicy",
+      "acidic"
+    ],
+    "diet": [
+      "vegan",
+      "vegetarian"
+    ],
     "type": "aromatic"
   },
-
   "pear": {
     "pairings": {
       "blue cheese": 0.8,
@@ -705,11 +991,16 @@
       "cinnamon": 0.6,
       "ginger": 0.5
     },
-    "taste": ["sweet", "fresh"],
-    "diet": ["vegan", "vegetarian"],
+    "taste": [
+      "sweet",
+      "fresh"
+    ],
+    "diet": [
+      "vegan",
+      "vegetarian"
+    ],
     "type": "fruit"
   },
-
   "pork": {
     "pairings": {
       "sauerkraut": 0.8,
@@ -718,11 +1009,13 @@
       "ginger": 0.7,
       "soy sauce": 0.6
     },
-    "taste": ["savoury", "umami"],
+    "taste": [
+      "savoury",
+      "umami"
+    ],
     "diet": [],
     "type": "protein"
   },
-
   "potato": {
     "pairings": {
       "rosemary": 0.7,
@@ -731,11 +1024,15 @@
       "thyme": 0.6,
       "olive oil": 0.6
     },
-    "taste": ["savoury"],
-    "diet": ["vegan", "vegetarian"],
+    "taste": [
+      "savoury"
+    ],
+    "diet": [
+      "vegan",
+      "vegetarian"
+    ],
     "type": "vegetable"
   },
-
   "rice": {
     "pairings": {
       "soy sauce": 0.7,
@@ -744,11 +1041,18 @@
       "ginger": 0.6,
       "lime": 0.5
     },
-    "taste": ["savoury"],
-    "diet": ["vegan", "vegetarian"],
-    "type": "grain"
+    "taste": [
+      "savoury"
+    ],
+    "diet": [
+      "vegan",
+      "vegetarian"
+    ],
+    "type": "grain",
+    "origin": "Yangtze River Delta, China, domesticated ~9000 BCE; independently domesticated in West Africa (Oryza glaberrima)",
+    "routes": "Spread through South/Southeast Asia via trade → brought to the Americas through the knowledge of enslaved West Africans",
+    "context": "Carolina Gold rice economies were built entirely on enslaved African expertise in cultivation and tidal irrigation."
   },
-
   "sesame oil": {
     "pairings": {
       "soy sauce": 0.7,
@@ -757,11 +1061,16 @@
       "kimchi": 0.6,
       "tofu": 0.7
     },
-    "taste": ["savoury", "umami"],
-    "diet": ["vegan", "vegetarian"],
+    "taste": [
+      "savoury",
+      "umami"
+    ],
+    "diet": [
+      "vegan",
+      "vegetarian"
+    ],
     "type": "fat"
   },
-
   "sugar": {
     "pairings": {
       "fish sauce": 0.5,
@@ -770,11 +1079,18 @@
       "vanilla": 0.8,
       "butter": 0.7
     },
-    "taste": ["sweet"],
-    "diet": ["vegan", "vegetarian"],
-    "type": "sweet"
+    "taste": [
+      "sweet"
+    ],
+    "diet": [
+      "vegan",
+      "vegetarian"
+    ],
+    "type": "sweet",
+    "origin": "New Guinea, domesticated ~8000 BCE; refined sugar processing developed in India by 500 CE",
+    "routes": "Arab traders → Mediterranean → Caribbean plantations via Spanish/Portuguese colonialism",
+    "context": "Engine of the Atlantic slave trade. Plantation monoculture reshaped Caribbean and Brazilian economies and demographics permanently."
   },
-
   "tofu": {
     "pairings": {
       "soy sauce": 0.7,
@@ -783,11 +1099,15 @@
       "ginger": 0.6,
       "mushroom": 0.6
     },
-    "taste": ["savoury"],
-    "diet": ["vegan", "vegetarian"],
+    "taste": [
+      "savoury"
+    ],
+    "diet": [
+      "vegan",
+      "vegetarian"
+    ],
     "type": "protein"
   },
-
   "walnut": {
     "pairings": {
       "blue cheese": 0.7,
@@ -796,11 +1116,16 @@
       "pear": 0.7,
       "coffee": 0.5
     },
-    "taste": ["bitter", "savoury"],
-    "diet": ["vegan", "vegetarian"],
+    "taste": [
+      "bitter",
+      "savoury"
+    ],
+    "diet": [
+      "vegan",
+      "vegetarian"
+    ],
     "type": "fat"
   },
-
   "beef": {
     "pairings": {
       "garlic": 0.8,
@@ -809,11 +1134,13 @@
       "onion": 0.7,
       "mushroom": 0.7
     },
-    "taste": ["savoury", "umami"],
+    "taste": [
+      "savoury",
+      "umami"
+    ],
     "diet": [],
     "type": "protein"
   },
-
   "duck": {
     "pairings": {
       "orange": 0.8,
@@ -822,11 +1149,13 @@
       "honey": 0.6,
       "star anise": 0.6
     },
-    "taste": ["savoury", "umami"],
+    "taste": [
+      "savoury",
+      "umami"
+    ],
     "diet": [],
     "type": "protein"
   },
-
   "tuna": {
     "pairings": {
       "soy sauce": 0.8,
@@ -835,11 +1164,13 @@
       "avocado": 0.7,
       "lime": 0.6
     },
-    "taste": ["savoury", "umami"],
+    "taste": [
+      "savoury",
+      "umami"
+    ],
     "diet": [],
     "type": "protein"
   },
-
   "scallop": {
     "pairings": {
       "butter": 0.8,
@@ -848,11 +1179,13 @@
       "garlic": 0.6,
       "corn": 0.6
     },
-    "taste": ["savoury", "sweet"],
+    "taste": [
+      "savoury",
+      "sweet"
+    ],
     "diet": [],
     "type": "protein"
   },
-
   "crab": {
     "pairings": {
       "butter": 0.8,
@@ -861,11 +1194,13 @@
       "corn": 0.7,
       "avocado": 0.6
     },
-    "taste": ["savoury", "sweet"],
+    "taste": [
+      "savoury",
+      "sweet"
+    ],
     "diet": [],
     "type": "protein"
   },
-
   "bacon": {
     "pairings": {
       "egg": 0.8,
@@ -874,11 +1209,13 @@
       "avocado": 0.6,
       "onion": 0.6
     },
-    "taste": ["savoury", "umami"],
+    "taste": [
+      "savoury",
+      "umami"
+    ],
     "diet": [],
     "type": "protein"
   },
-
   "chorizo": {
     "pairings": {
       "potato": 0.7,
@@ -887,11 +1224,13 @@
       "tomato": 0.6,
       "egg": 0.6
     },
-    "taste": ["savoury", "spicy"],
+    "taste": [
+      "savoury",
+      "spicy"
+    ],
     "diet": [],
     "type": "protein"
   },
-
   "tempeh": {
     "pairings": {
       "soy sauce": 0.7,
@@ -900,11 +1239,16 @@
       "sesame oil": 0.6,
       "peanut butter": 0.6
     },
-    "taste": ["savoury", "umami"],
-    "diet": ["vegan", "vegetarian"],
+    "taste": [
+      "savoury",
+      "umami"
+    ],
+    "diet": [
+      "vegan",
+      "vegetarian"
+    ],
     "type": "protein"
   },
-
   "onion": {
     "pairings": {
       "garlic": 0.8,
@@ -913,11 +1257,16 @@
       "beef": 0.7,
       "tomato": 0.7
     },
-    "taste": ["savoury", "sweet"],
-    "diet": ["vegan", "vegetarian"],
+    "taste": [
+      "savoury",
+      "sweet"
+    ],
+    "diet": [
+      "vegan",
+      "vegetarian"
+    ],
     "type": "vegetable"
   },
-
   "carrot": {
     "pairings": {
       "ginger": 0.7,
@@ -926,11 +1275,16 @@
       "butter": 0.6,
       "orange": 0.6
     },
-    "taste": ["sweet", "savoury"],
-    "diet": ["vegan", "vegetarian"],
+    "taste": [
+      "sweet",
+      "savoury"
+    ],
+    "diet": [
+      "vegan",
+      "vegetarian"
+    ],
     "type": "vegetable"
   },
-
   "bell pepper": {
     "pairings": {
       "onion": 0.7,
@@ -939,11 +1293,16 @@
       "olive oil": 0.6,
       "feta": 0.6
     },
-    "taste": ["sweet", "savoury"],
-    "diet": ["vegan", "vegetarian"],
+    "taste": [
+      "sweet",
+      "savoury"
+    ],
+    "diet": [
+      "vegan",
+      "vegetarian"
+    ],
     "type": "vegetable"
   },
-
   "corn": {
     "pairings": {
       "butter": 0.8,
@@ -952,11 +1311,16 @@
       "crab": 0.7,
       "cilantro": 0.6
     },
-    "taste": ["sweet", "savoury"],
-    "diet": ["vegan", "vegetarian"],
+    "taste": [
+      "sweet",
+      "savoury"
+    ],
+    "diet": [
+      "vegan",
+      "vegetarian"
+    ],
     "type": "vegetable"
   },
-
   "avocado": {
     "pairings": {
       "lime": 0.8,
@@ -965,11 +1329,16 @@
       "tomato": 0.7,
       "soy sauce": 0.5
     },
-    "taste": ["savoury", "fresh"],
-    "diet": ["vegan", "vegetarian"],
+    "taste": [
+      "savoury",
+      "fresh"
+    ],
+    "diet": [
+      "vegan",
+      "vegetarian"
+    ],
     "type": "vegetable"
   },
-
   "spinach": {
     "pairings": {
       "garlic": 0.7,
@@ -978,11 +1347,16 @@
       "feta": 0.7,
       "cream": 0.6
     },
-    "taste": ["savoury", "bitter"],
-    "diet": ["vegan", "vegetarian"],
+    "taste": [
+      "savoury",
+      "bitter"
+    ],
+    "diet": [
+      "vegan",
+      "vegetarian"
+    ],
     "type": "vegetable"
   },
-
   "cauliflower": {
     "pairings": {
       "turmeric": 0.7,
@@ -991,11 +1365,15 @@
       "cumin": 0.6,
       "butter": 0.6
     },
-    "taste": ["savoury"],
-    "diet": ["vegan", "vegetarian"],
+    "taste": [
+      "savoury"
+    ],
+    "diet": [
+      "vegan",
+      "vegetarian"
+    ],
     "type": "vegetable"
   },
-
   "sweet potato": {
     "pairings": {
       "cinnamon": 0.7,
@@ -1004,11 +1382,16 @@
       "chili": 0.5,
       "lime": 0.5
     },
-    "taste": ["sweet", "savoury"],
-    "diet": ["vegan", "vegetarian"],
+    "taste": [
+      "sweet",
+      "savoury"
+    ],
+    "diet": [
+      "vegan",
+      "vegetarian"
+    ],
     "type": "vegetable"
   },
-
   "mango": {
     "pairings": {
       "chili": 0.7,
@@ -1017,11 +1400,16 @@
       "cilantro": 0.6,
       "rice": 0.7
     },
-    "taste": ["sweet", "acidic"],
-    "diet": ["vegan", "vegetarian"],
+    "taste": [
+      "sweet",
+      "acidic"
+    ],
+    "diet": [
+      "vegan",
+      "vegetarian"
+    ],
     "type": "fruit"
   },
-
   "banana": {
     "pairings": {
       "chocolate": 0.7,
@@ -1030,11 +1418,15 @@
       "honey": 0.6,
       "walnut": 0.6
     },
-    "taste": ["sweet"],
-    "diet": ["vegan", "vegetarian"],
+    "taste": [
+      "sweet"
+    ],
+    "diet": [
+      "vegan",
+      "vegetarian"
+    ],
     "type": "fruit"
   },
-
   "coconut": {
     "pairings": {
       "chocolate": 0.7,
@@ -1043,11 +1435,16 @@
       "mango": 0.6,
       "vanilla": 0.6
     },
-    "taste": ["sweet", "savoury"],
-    "diet": ["vegan", "vegetarian"],
+    "taste": [
+      "sweet",
+      "savoury"
+    ],
+    "diet": [
+      "vegan",
+      "vegetarian"
+    ],
     "type": "fruit"
   },
-
   "raspberry": {
     "pairings": {
       "chocolate": 0.8,
@@ -1056,11 +1453,16 @@
       "mint": 0.6,
       "cream": 0.7
     },
-    "taste": ["sweet", "acidic"],
-    "diet": ["vegan", "vegetarian"],
+    "taste": [
+      "sweet",
+      "acidic"
+    ],
+    "diet": [
+      "vegan",
+      "vegetarian"
+    ],
     "type": "fruit"
   },
-
   "fig": {
     "pairings": {
       "goat cheese": 0.8,
@@ -1069,11 +1471,15 @@
       "balsamic vinegar": 0.7,
       "cinnamon": 0.5
     },
-    "taste": ["sweet"],
-    "diet": ["vegan", "vegetarian"],
+    "taste": [
+      "sweet"
+    ],
+    "diet": [
+      "vegan",
+      "vegetarian"
+    ],
     "type": "fruit"
   },
-
   "cherry": {
     "pairings": {
       "chocolate": 0.8,
@@ -1082,11 +1488,16 @@
       "duck": 0.7,
       "cinnamon": 0.5
     },
-    "taste": ["sweet", "acidic"],
-    "diet": ["vegan", "vegetarian"],
+    "taste": [
+      "sweet",
+      "acidic"
+    ],
+    "diet": [
+      "vegan",
+      "vegetarian"
+    ],
     "type": "fruit"
   },
-
   "cilantro": {
     "pairings": {
       "lime": 0.8,
@@ -1095,11 +1506,16 @@
       "garlic": 0.6,
       "cumin": 0.6
     },
-    "taste": ["fresh", "savoury"],
-    "diet": ["vegan", "vegetarian"],
+    "taste": [
+      "fresh",
+      "savoury"
+    ],
+    "diet": [
+      "vegan",
+      "vegetarian"
+    ],
     "type": "herb"
   },
-
   "dill": {
     "pairings": {
       "salmon": 0.8,
@@ -1108,11 +1524,16 @@
       "cucumber": 0.7,
       "mustard": 0.5
     },
-    "taste": ["fresh", "savoury"],
-    "diet": ["vegan", "vegetarian"],
+    "taste": [
+      "fresh",
+      "savoury"
+    ],
+    "diet": [
+      "vegan",
+      "vegetarian"
+    ],
     "type": "herb"
   },
-
   "parsley": {
     "pairings": {
       "lemon": 0.7,
@@ -1121,11 +1542,16 @@
       "tomato": 0.6,
       "butter": 0.5
     },
-    "taste": ["fresh", "savoury"],
-    "diet": ["vegan", "vegetarian"],
+    "taste": [
+      "fresh",
+      "savoury"
+    ],
+    "diet": [
+      "vegan",
+      "vegetarian"
+    ],
     "type": "herb"
   },
-
   "turmeric": {
     "pairings": {
       "black pepper": 0.8,
@@ -1134,11 +1560,19 @@
       "cumin": 0.6,
       "cauliflower": 0.7
     },
-    "taste": ["bitter", "savoury"],
-    "diet": ["vegan", "vegetarian"],
-    "type": "spice"
+    "taste": [
+      "bitter",
+      "savoury"
+    ],
+    "diet": [
+      "vegan",
+      "vegetarian"
+    ],
+    "type": "spice",
+    "origin": "Indian subcontinent; used in Vedic culture for at least 4000 years",
+    "routes": "Indian Ocean trade networks → Southeast Asian adoption → Arab traders to East Africa → modern global wellness commodity",
+    "context": "Sacred in Hindu ritual and Ayurvedic medicine. Its recent Western 'superfood' branding erases millennia of South Asian medicinal and ceremonial use."
   },
-
   "paprika": {
     "pairings": {
       "garlic": 0.7,
@@ -1147,11 +1581,16 @@
       "chicken": 0.6,
       "cream": 0.6
     },
-    "taste": ["sweet", "savoury"],
-    "diet": ["vegan", "vegetarian"],
+    "taste": [
+      "sweet",
+      "savoury"
+    ],
+    "diet": [
+      "vegan",
+      "vegetarian"
+    ],
     "type": "spice"
   },
-
   "nutmeg": {
     "pairings": {
       "spinach": 0.6,
@@ -1160,11 +1599,19 @@
       "cinnamon": 0.6,
       "sweet potato": 0.5
     },
-    "taste": ["sweet", "spicy"],
-    "diet": ["vegan", "vegetarian"],
-    "type": "spice"
+    "taste": [
+      "sweet",
+      "spicy"
+    ],
+    "diet": [
+      "vegan",
+      "vegetarian"
+    ],
+    "type": "spice",
+    "origin": "Banda Islands, Maluku (Moluccas), Indonesia — one of the most geographically restricted origins of any spice",
+    "routes": "Arab and Malay traders → Portuguese arrival → Dutch VOC genocide of Bandanese people to seize monopoly → British transplant to Grenada",
+    "context": "The Dutch massacred and enslaved the Bandanese population in 1621 to control nutmeg. The spice was traded for Manhattan (Run Island swap, 1667). Grenada's flag still features a nutmeg."
   },
-
   "clove": {
     "pairings": {
       "cinnamon": 0.7,
@@ -1173,11 +1620,16 @@
       "pork": 0.6,
       "apple": 0.6
     },
-    "taste": ["sweet", "spicy"],
-    "diet": ["vegan", "vegetarian"],
+    "taste": [
+      "sweet",
+      "spicy"
+    ],
+    "diet": [
+      "vegan",
+      "vegetarian"
+    ],
     "type": "spice"
   },
-
   "star anise": {
     "pairings": {
       "soy sauce": 0.7,
@@ -1186,11 +1638,16 @@
       "duck": 0.6,
       "pork": 0.6
     },
-    "taste": ["sweet", "spicy"],
-    "diet": ["vegan", "vegetarian"],
+    "taste": [
+      "sweet",
+      "spicy"
+    ],
+    "diet": [
+      "vegan",
+      "vegetarian"
+    ],
     "type": "spice"
   },
-
   "shallot": {
     "pairings": {
       "butter": 0.7,
@@ -1199,11 +1656,16 @@
       "garlic": 0.6,
       "mushroom": 0.6
     },
-    "taste": ["savoury", "sweet"],
-    "diet": ["vegan", "vegetarian"],
+    "taste": [
+      "savoury",
+      "sweet"
+    ],
+    "diet": [
+      "vegan",
+      "vegetarian"
+    ],
     "type": "aromatic"
   },
-
   "lemongrass": {
     "pairings": {
       "coconut milk": 0.8,
@@ -1212,11 +1674,16 @@
       "lime": 0.7,
       "shrimp": 0.6
     },
-    "taste": ["fresh", "acidic"],
-    "diet": ["vegan", "vegetarian"],
+    "taste": [
+      "fresh",
+      "acidic"
+    ],
+    "diet": [
+      "vegan",
+      "vegetarian"
+    ],
     "type": "aromatic"
   },
-
   "galangal": {
     "pairings": {
       "coconut milk": 0.7,
@@ -1225,11 +1692,16 @@
       "chili": 0.6,
       "shrimp": 0.5
     },
-    "taste": ["spicy", "fresh"],
-    "diet": ["vegan", "vegetarian"],
+    "taste": [
+      "spicy",
+      "fresh"
+    ],
+    "diet": [
+      "vegan",
+      "vegetarian"
+    ],
     "type": "aromatic"
   },
-
   "ghee": {
     "pairings": {
       "cumin": 0.7,
@@ -1238,11 +1710,17 @@
       "lentils": 0.7,
       "cardamom": 0.6
     },
-    "taste": ["savoury"],
-    "diet": ["vegetarian"],
-    "type": "fat"
+    "taste": [
+      "savoury"
+    ],
+    "diet": [
+      "vegetarian"
+    ],
+    "type": "fat",
+    "origin": "Indian subcontinent; clarified butter central to Vedic ritual and Ayurvedic practice for 3000+ years",
+    "routes": "Largely remained within South Asian food systems → diaspora carried it globally → recent Western wellness market adoption",
+    "context": "Sacred in Hindu fire rituals (yajna) and hierarchically ranked in caste-linked food systems. Its Western rebrand as a 'health fat' strips away religious and social meaning."
   },
-
   "coconut oil": {
     "pairings": {
       "lime": 0.6,
@@ -1251,11 +1729,16 @@
       "banana": 0.5,
       "sweet potato": 0.5
     },
-    "taste": ["sweet", "savoury"],
-    "diet": ["vegan", "vegetarian"],
+    "taste": [
+      "sweet",
+      "savoury"
+    ],
+    "diet": [
+      "vegan",
+      "vegetarian"
+    ],
     "type": "fat"
   },
-
   "sesame seeds": {
     "pairings": {
       "soy sauce": 0.7,
@@ -1264,11 +1747,15 @@
       "sesame oil": 0.8,
       "cucumber": 0.5
     },
-    "taste": ["savoury"],
-    "diet": ["vegan", "vegetarian"],
+    "taste": [
+      "savoury"
+    ],
+    "diet": [
+      "vegan",
+      "vegetarian"
+    ],
     "type": "fat"
   },
-
   "rice vinegar": {
     "pairings": {
       "soy sauce": 0.7,
@@ -1277,11 +1764,16 @@
       "sugar": 0.6,
       "cucumber": 0.6
     },
-    "taste": ["acidic", "sweet"],
-    "diet": ["vegan", "vegetarian"],
+    "taste": [
+      "acidic",
+      "sweet"
+    ],
+    "diet": [
+      "vegan",
+      "vegetarian"
+    ],
     "type": "acid"
   },
-
   "tamarind": {
     "pairings": {
       "chili": 0.7,
@@ -1290,11 +1782,19 @@
       "peanut butter": 0.6,
       "lime": 0.6
     },
-    "taste": ["acidic", "sweet"],
-    "diet": ["vegan", "vegetarian"],
-    "type": "acid"
+    "taste": [
+      "acidic",
+      "sweet"
+    ],
+    "diet": [
+      "vegan",
+      "vegetarian"
+    ],
+    "type": "acid",
+    "origin": "East Africa (likely Sudan/Tanzania); adopted into Indian cuisine so early it was long misattributed as Indian-origin",
+    "routes": "Arab traders → India (became deeply embedded) → Southeast Asia → Latin America via Spanish/Portuguese colonial transfer",
+    "context": "Its name comes from Arabic 'tamar hindi' (Indian date), reflecting how trade obscured African origins. A case study in how colonial-era botanical attribution erased source cultures."
   },
-
   "worcestershire sauce": {
     "pairings": {
       "beef": 0.7,
@@ -1303,11 +1803,13 @@
       "garlic": 0.5,
       "lemon": 0.5
     },
-    "taste": ["savoury", "umami"],
+    "taste": [
+      "savoury",
+      "umami"
+    ],
     "diet": [],
     "type": "fermented"
   },
-
   "harissa": {
     "pairings": {
       "yoghurt": 0.7,
@@ -1316,11 +1818,19 @@
       "olive oil": 0.6,
       "lemon": 0.6
     },
-    "taste": ["spicy", "savoury"],
-    "diet": ["vegan", "vegetarian"],
-    "type": "fermented"
+    "taste": [
+      "spicy",
+      "savoury"
+    ],
+    "diet": [
+      "vegan",
+      "vegetarian"
+    ],
+    "type": "fermented",
+    "origin": "Tunisia/Maghreb; chili paste developed after New World chilies arrived via Ottoman-Spanish contact",
+    "routes": "New World chili → Spain → Ottoman North Africa → Tunisian national condiment → Maghrebi diaspora spread it to Europe",
+    "context": "A Columbian Exchange product that became a national symbol. Encodes Ottoman, Spanish, and French colonial layers in one paste."
   },
-
   "cream": {
     "pairings": {
       "mushroom": 0.7,
@@ -1329,11 +1839,15 @@
       "vanilla": 0.7,
       "strawberry": 0.7
     },
-    "taste": ["savoury", "sweet"],
-    "diet": ["vegetarian"],
+    "taste": [
+      "savoury",
+      "sweet"
+    ],
+    "diet": [
+      "vegetarian"
+    ],
     "type": "dairy"
   },
-
   "goat cheese": {
     "pairings": {
       "fig": 0.8,
@@ -1342,11 +1856,15 @@
       "walnut": 0.6,
       "thyme": 0.6
     },
-    "taste": ["savoury", "acidic"],
-    "diet": ["vegetarian"],
+    "taste": [
+      "savoury",
+      "acidic"
+    ],
+    "diet": [
+      "vegetarian"
+    ],
     "type": "cheese"
   },
-
   "oyster sauce": {
     "pairings": {
       "soy sauce": 0.7,
@@ -1355,11 +1873,13 @@
       "mushroom": 0.6,
       "sesame oil": 0.6
     },
-    "taste": ["savoury", "umami"],
+    "taste": [
+      "savoury",
+      "umami"
+    ],
     "diet": [],
     "type": "umami"
   },
-
   "sriracha": {
     "pairings": {
       "lime": 0.7,
@@ -1368,11 +1888,16 @@
       "garlic": 0.6,
       "egg": 0.5
     },
-    "taste": ["spicy", "savoury"],
-    "diet": ["vegan", "vegetarian"],
+    "taste": [
+      "spicy",
+      "savoury"
+    ],
+    "diet": [
+      "vegan",
+      "vegetarian"
+    ],
     "type": "umami"
   },
-
   "maple syrup": {
     "pairings": {
       "bacon": 0.7,
@@ -1381,11 +1906,15 @@
       "walnut": 0.6,
       "sweet potato": 0.6
     },
-    "taste": ["sweet"],
-    "diet": ["vegan", "vegetarian"],
+    "taste": [
+      "sweet"
+    ],
+    "diet": [
+      "vegan",
+      "vegetarian"
+    ],
     "type": "sweet"
   },
-
   "vanilla": {
     "pairings": {
       "chocolate": 0.8,
@@ -1394,11 +1923,18 @@
       "cream": 0.7,
       "sugar": 0.8
     },
-    "taste": ["sweet"],
-    "diet": ["vegan", "vegetarian"],
-    "type": "sweet"
+    "taste": [
+      "sweet"
+    ],
+    "diet": [
+      "vegan",
+      "vegetarian"
+    ],
+    "type": "sweet",
+    "origin": "Mesoamerica (Totonac people, present-day Veracruz, Mexico); cultivated for centuries before European contact",
+    "routes": "Aztec tribute system → Spanish colonial export → French transplant to Réunion/Madagascar via hand-pollination technique",
+    "context": "Totonac and Aztec knowledge was appropriated wholesale. Madagascar now produces 80% of global supply under conditions of extreme poverty and commodity price volatility."
   },
-
   "turkey": {
     "pairings": {
       "cranberry": 0.8,
@@ -1407,11 +1943,12 @@
       "butter": 0.6,
       "rosemary": 0.6
     },
-    "taste": ["savoury"],
+    "taste": [
+      "savoury"
+    ],
     "diet": [],
     "type": "protein"
   },
-
   "venison": {
     "pairings": {
       "juniper": 0.8,
@@ -1420,11 +1957,13 @@
       "red wine vinegar": 0.5,
       "thyme": 0.6
     },
-    "taste": ["savoury", "umami"],
+    "taste": [
+      "savoury",
+      "umami"
+    ],
     "diet": [],
     "type": "protein"
   },
-
   "sardine": {
     "pairings": {
       "lemon": 0.8,
@@ -1433,24 +1972,26 @@
       "tomato": 0.6,
       "parsley": 0.6
     },
-    "taste": ["savoury", "umami"],
+    "taste": [
+      "savoury",
+      "umami"
+    ],
     "diet": [],
     "type": "protein"
   },
-
   "squid": {
     "pairings": {
       "lemon": 0.7,
       "garlic": 0.7,
       "chili": 0.6,
-      "olive oil": 0.6,
       "olive oil": 0.7
     },
-    "taste": ["savoury"],
+    "taste": [
+      "savoury"
+    ],
     "diet": [],
     "type": "protein"
   },
-
   "lobster": {
     "pairings": {
       "butter": 0.9,
@@ -1459,11 +2000,13 @@
       "corn": 0.6,
       "cream": 0.6
     },
-    "taste": ["savoury", "sweet"],
+    "taste": [
+      "savoury",
+      "sweet"
+    ],
     "diet": [],
     "type": "protein"
   },
-
   "cod": {
     "pairings": {
       "lemon": 0.7,
@@ -1472,11 +2015,12 @@
       "olive oil": 0.6,
       "parsley": 0.6
     },
-    "taste": ["savoury"],
+    "taste": [
+      "savoury"
+    ],
     "diet": [],
     "type": "protein"
   },
-
   "mackerel": {
     "pairings": {
       "lemon": 0.7,
@@ -1485,11 +2029,13 @@
       "gooseberry": 0.6,
       "dill": 0.6
     },
-    "taste": ["savoury", "umami"],
+    "taste": [
+      "savoury",
+      "umami"
+    ],
     "diet": [],
     "type": "protein"
   },
-
   "prosciutto": {
     "pairings": {
       "melon": 0.8,
@@ -1498,11 +2044,13 @@
       "olive oil": 0.5,
       "parmesan": 0.6
     },
-    "taste": ["savoury", "umami"],
+    "taste": [
+      "savoury",
+      "umami"
+    ],
     "diet": [],
     "type": "protein"
   },
-
   "ham": {
     "pairings": {
       "clove": 0.6,
@@ -1511,11 +2059,13 @@
       "honey": 0.6,
       "cheddar": 0.6
     },
-    "taste": ["savoury", "sweet"],
+    "taste": [
+      "savoury",
+      "sweet"
+    ],
     "diet": [],
     "type": "protein"
   },
-
   "sausage": {
     "pairings": {
       "mustard": 0.7,
@@ -1524,11 +2074,13 @@
       "bell pepper": 0.6,
       "garlic": 0.6
     },
-    "taste": ["savoury", "umami"],
+    "taste": [
+      "savoury",
+      "umami"
+    ],
     "diet": [],
     "type": "protein"
   },
-
   "rabbit": {
     "pairings": {
       "mustard": 0.7,
@@ -1537,11 +2089,12 @@
       "garlic": 0.6,
       "prune": 0.6
     },
-    "taste": ["savoury"],
+    "taste": [
+      "savoury"
+    ],
     "diet": [],
     "type": "protein"
   },
-
   "octopus": {
     "pairings": {
       "olive oil": 0.8,
@@ -1550,11 +2103,13 @@
       "potato": 0.6,
       "garlic": 0.7
     },
-    "taste": ["savoury", "umami"],
+    "taste": [
+      "savoury",
+      "umami"
+    ],
     "diet": [],
     "type": "protein"
   },
-
   "halibut": {
     "pairings": {
       "lemon": 0.7,
@@ -1563,11 +2118,12 @@
       "dill": 0.6,
       "asparagus": 0.6
     },
-    "taste": ["savoury"],
+    "taste": [
+      "savoury"
+    ],
     "diet": [],
     "type": "protein"
   },
-
   "zucchini": {
     "pairings": {
       "garlic": 0.7,
@@ -1576,11 +2132,16 @@
       "tomato": 0.6,
       "basil": 0.6
     },
-    "taste": ["savoury", "fresh"],
-    "diet": ["vegan", "vegetarian"],
+    "taste": [
+      "savoury",
+      "fresh"
+    ],
+    "diet": [
+      "vegan",
+      "vegetarian"
+    ],
     "type": "vegetable"
   },
-
   "asparagus": {
     "pairings": {
       "lemon": 0.7,
@@ -1589,11 +2150,16 @@
       "egg": 0.6,
       "hollandaise": 0.8
     },
-    "taste": ["savoury", "bitter"],
-    "diet": ["vegan", "vegetarian"],
+    "taste": [
+      "savoury",
+      "bitter"
+    ],
+    "diet": [
+      "vegan",
+      "vegetarian"
+    ],
     "type": "vegetable"
   },
-
   "artichoke": {
     "pairings": {
       "lemon": 0.7,
@@ -1602,11 +2168,16 @@
       "parmesan": 0.6,
       "butter": 0.6
     },
-    "taste": ["savoury", "bitter"],
-    "diet": ["vegan", "vegetarian"],
+    "taste": [
+      "savoury",
+      "bitter"
+    ],
+    "diet": [
+      "vegan",
+      "vegetarian"
+    ],
     "type": "vegetable"
   },
-
   "leek": {
     "pairings": {
       "potato": 0.8,
@@ -1615,11 +2186,16 @@
       "thyme": 0.6,
       "mushroom": 0.6
     },
-    "taste": ["savoury", "sweet"],
-    "diet": ["vegan", "vegetarian"],
+    "taste": [
+      "savoury",
+      "sweet"
+    ],
+    "diet": [
+      "vegan",
+      "vegetarian"
+    ],
     "type": "vegetable"
   },
-
   "celery": {
     "pairings": {
       "peanut butter": 0.6,
@@ -1628,11 +2204,16 @@
       "onion": 0.6,
       "carrot": 0.7
     },
-    "taste": ["savoury", "fresh"],
-    "diet": ["vegan", "vegetarian"],
+    "taste": [
+      "savoury",
+      "fresh"
+    ],
+    "diet": [
+      "vegan",
+      "vegetarian"
+    ],
     "type": "vegetable"
   },
-
   "radish": {
     "pairings": {
       "butter": 0.7,
@@ -1641,11 +2222,16 @@
       "cilantro": 0.5,
       "sesame oil": 0.5
     },
-    "taste": ["spicy", "fresh"],
-    "diet": ["vegan", "vegetarian"],
+    "taste": [
+      "spicy",
+      "fresh"
+    ],
+    "diet": [
+      "vegan",
+      "vegetarian"
+    ],
     "type": "vegetable"
   },
-
   "beetroot": {
     "pairings": {
       "goat cheese": 0.8,
@@ -1654,11 +2240,16 @@
       "horseradish": 0.6,
       "balsamic vinegar": 0.7
     },
-    "taste": ["sweet", "savoury"],
-    "diet": ["vegan", "vegetarian"],
+    "taste": [
+      "sweet",
+      "savoury"
+    ],
+    "diet": [
+      "vegan",
+      "vegetarian"
+    ],
     "type": "vegetable"
   },
-
   "kale": {
     "pairings": {
       "garlic": 0.7,
@@ -1667,11 +2258,16 @@
       "parmesan": 0.6,
       "chili": 0.5
     },
-    "taste": ["savoury", "bitter"],
-    "diet": ["vegan", "vegetarian"],
+    "taste": [
+      "savoury",
+      "bitter"
+    ],
+    "diet": [
+      "vegan",
+      "vegetarian"
+    ],
     "type": "vegetable"
   },
-
   "fennel": {
     "pairings": {
       "orange": 0.7,
@@ -1680,11 +2276,16 @@
       "salmon": 0.6,
       "star anise": 0.6
     },
-    "taste": ["sweet", "fresh"],
-    "diet": ["vegan", "vegetarian"],
+    "taste": [
+      "sweet",
+      "fresh"
+    ],
+    "diet": [
+      "vegan",
+      "vegetarian"
+    ],
     "type": "vegetable"
   },
-
   "pea": {
     "pairings": {
       "mint": 0.8,
@@ -1693,11 +2294,16 @@
       "parmesan": 0.6,
       "lemon": 0.5
     },
-    "taste": ["sweet", "fresh"],
-    "diet": ["vegan", "vegetarian"],
+    "taste": [
+      "sweet",
+      "fresh"
+    ],
+    "diet": [
+      "vegan",
+      "vegetarian"
+    ],
     "type": "vegetable"
   },
-
   "broccoli": {
     "pairings": {
       "garlic": 0.7,
@@ -1706,11 +2312,16 @@
       "sesame oil": 0.6,
       "cheddar": 0.6
     },
-    "taste": ["savoury", "bitter"],
-    "diet": ["vegan", "vegetarian"],
+    "taste": [
+      "savoury",
+      "bitter"
+    ],
+    "diet": [
+      "vegan",
+      "vegetarian"
+    ],
     "type": "vegetable"
   },
-
   "brussels sprouts": {
     "pairings": {
       "bacon": 0.7,
@@ -1719,11 +2330,16 @@
       "maple syrup": 0.5,
       "parmesan": 0.6
     },
-    "taste": ["savoury", "bitter"],
-    "diet": ["vegan", "vegetarian"],
+    "taste": [
+      "savoury",
+      "bitter"
+    ],
+    "diet": [
+      "vegan",
+      "vegetarian"
+    ],
     "type": "vegetable"
   },
-
   "turnip": {
     "pairings": {
       "butter": 0.6,
@@ -1732,11 +2348,16 @@
       "cream": 0.5,
       "honey": 0.5
     },
-    "taste": ["savoury", "bitter"],
-    "diet": ["vegan", "vegetarian"],
+    "taste": [
+      "savoury",
+      "bitter"
+    ],
+    "diet": [
+      "vegan",
+      "vegetarian"
+    ],
     "type": "vegetable"
   },
-
   "watercress": {
     "pairings": {
       "lemon": 0.6,
@@ -1745,11 +2366,16 @@
       "orange": 0.5,
       "pear": 0.5
     },
-    "taste": ["spicy", "fresh"],
-    "diet": ["vegan", "vegetarian"],
+    "taste": [
+      "spicy",
+      "fresh"
+    ],
+    "diet": [
+      "vegan",
+      "vegetarian"
+    ],
     "type": "vegetable"
   },
-
   "green bean": {
     "pairings": {
       "garlic": 0.7,
@@ -1758,11 +2384,16 @@
       "butter": 0.6,
       "shallot": 0.6
     },
-    "taste": ["savoury", "fresh"],
-    "diet": ["vegan", "vegetarian"],
+    "taste": [
+      "savoury",
+      "fresh"
+    ],
+    "diet": [
+      "vegan",
+      "vegetarian"
+    ],
     "type": "vegetable"
   },
-
   "watermelon": {
     "pairings": {
       "feta": 0.7,
@@ -1771,11 +2402,16 @@
       "chili": 0.5,
       "basil": 0.5
     },
-    "taste": ["sweet", "fresh"],
-    "diet": ["vegan", "vegetarian"],
+    "taste": [
+      "sweet",
+      "fresh"
+    ],
+    "diet": [
+      "vegan",
+      "vegetarian"
+    ],
     "type": "fruit"
   },
-
   "passion fruit": {
     "pairings": {
       "mango": 0.7,
@@ -1784,11 +2420,16 @@
       "vanilla": 0.6,
       "lime": 0.6
     },
-    "taste": ["sweet", "acidic"],
-    "diet": ["vegan", "vegetarian"],
+    "taste": [
+      "sweet",
+      "acidic"
+    ],
+    "diet": [
+      "vegan",
+      "vegetarian"
+    ],
     "type": "fruit"
   },
-
   "grapefruit": {
     "pairings": {
       "honey": 0.6,
@@ -1797,11 +2438,16 @@
       "shrimp": 0.5,
       "rosemary": 0.5
     },
-    "taste": ["acidic", "bitter"],
-    "diet": ["vegan", "vegetarian"],
+    "taste": [
+      "acidic",
+      "bitter"
+    ],
+    "diet": [
+      "vegan",
+      "vegetarian"
+    ],
     "type": "fruit"
   },
-
   "plum": {
     "pairings": {
       "cinnamon": 0.6,
@@ -1810,11 +2456,16 @@
       "duck": 0.6,
       "walnut": 0.5
     },
-    "taste": ["sweet", "acidic"],
-    "diet": ["vegan", "vegetarian"],
+    "taste": [
+      "sweet",
+      "acidic"
+    ],
+    "diet": [
+      "vegan",
+      "vegetarian"
+    ],
     "type": "fruit"
   },
-
   "apricot": {
     "pairings": {
       "almond": 0.8,
@@ -1823,11 +2474,16 @@
       "lamb": 0.6,
       "rosemary": 0.5
     },
-    "taste": ["sweet", "acidic"],
-    "diet": ["vegan", "vegetarian"],
+    "taste": [
+      "sweet",
+      "acidic"
+    ],
+    "diet": [
+      "vegan",
+      "vegetarian"
+    ],
     "type": "fruit"
   },
-
   "blackberry": {
     "pairings": {
       "apple": 0.7,
@@ -1836,11 +2492,16 @@
       "vanilla": 0.6,
       "venison": 0.6
     },
-    "taste": ["sweet", "acidic"],
-    "diet": ["vegan", "vegetarian"],
+    "taste": [
+      "sweet",
+      "acidic"
+    ],
+    "diet": [
+      "vegan",
+      "vegetarian"
+    ],
     "type": "fruit"
   },
-
   "blueberry": {
     "pairings": {
       "lemon": 0.7,
@@ -1849,11 +2510,15 @@
       "cream": 0.6,
       "cinnamon": 0.5
     },
-    "taste": ["sweet"],
-    "diet": ["vegan", "vegetarian"],
+    "taste": [
+      "sweet"
+    ],
+    "diet": [
+      "vegan",
+      "vegetarian"
+    ],
     "type": "fruit"
   },
-
   "cranberry": {
     "pairings": {
       "orange": 0.7,
@@ -1862,11 +2527,16 @@
       "apple": 0.6,
       "cinnamon": 0.5
     },
-    "taste": ["acidic", "bitter"],
-    "diet": ["vegan", "vegetarian"],
+    "taste": [
+      "acidic",
+      "bitter"
+    ],
+    "diet": [
+      "vegan",
+      "vegetarian"
+    ],
     "type": "fruit"
   },
-
   "pomegranate": {
     "pairings": {
       "walnut": 0.7,
@@ -1875,11 +2545,16 @@
       "yoghurt": 0.6,
       "honey": 0.6
     },
-    "taste": ["sweet", "acidic"],
-    "diet": ["vegan", "vegetarian"],
+    "taste": [
+      "sweet",
+      "acidic"
+    ],
+    "diet": [
+      "vegan",
+      "vegetarian"
+    ],
     "type": "fruit"
   },
-
   "lychee": {
     "pairings": {
       "rose water": 0.7,
@@ -1888,11 +2563,15 @@
       "lime": 0.6,
       "vanilla": 0.5
     },
-    "taste": ["sweet"],
-    "diet": ["vegan", "vegetarian"],
+    "taste": [
+      "sweet"
+    ],
+    "diet": [
+      "vegan",
+      "vegetarian"
+    ],
     "type": "fruit"
   },
-
   "guava": {
     "pairings": {
       "lime": 0.7,
@@ -1901,11 +2580,16 @@
       "coconut": 0.6,
       "ginger": 0.5
     },
-    "taste": ["sweet", "acidic"],
-    "diet": ["vegan", "vegetarian"],
+    "taste": [
+      "sweet",
+      "acidic"
+    ],
+    "diet": [
+      "vegan",
+      "vegetarian"
+    ],
     "type": "fruit"
   },
-
   "date": {
     "pairings": {
       "walnut": 0.7,
@@ -1914,11 +2598,15 @@
       "bacon": 0.6,
       "goat cheese": 0.6
     },
-    "taste": ["sweet"],
-    "diet": ["vegan", "vegetarian"],
+    "taste": [
+      "sweet"
+    ],
+    "diet": [
+      "vegan",
+      "vegetarian"
+    ],
     "type": "fruit"
   },
-
   "rhubarb": {
     "pairings": {
       "strawberry": 0.8,
@@ -1927,11 +2615,16 @@
       "orange": 0.5,
       "sugar": 0.7
     },
-    "taste": ["acidic", "bitter"],
-    "diet": ["vegan", "vegetarian"],
+    "taste": [
+      "acidic",
+      "bitter"
+    ],
+    "diet": [
+      "vegan",
+      "vegetarian"
+    ],
     "type": "fruit"
   },
-
   "melon": {
     "pairings": {
       "prosciutto": 0.8,
@@ -1940,11 +2633,16 @@
       "ginger": 0.5,
       "feta": 0.5
     },
-    "taste": ["sweet", "fresh"],
-    "diet": ["vegan", "vegetarian"],
+    "taste": [
+      "sweet",
+      "fresh"
+    ],
+    "diet": [
+      "vegan",
+      "vegetarian"
+    ],
     "type": "fruit"
   },
-
   "sage": {
     "pairings": {
       "butter": 0.8,
@@ -1953,11 +2651,15 @@
       "squash": 0.7,
       "brown butter": 0.8
     },
-    "taste": ["savoury"],
-    "diet": ["vegan", "vegetarian"],
+    "taste": [
+      "savoury"
+    ],
+    "diet": [
+      "vegan",
+      "vegetarian"
+    ],
     "type": "herb"
   },
-
   "tarragon": {
     "pairings": {
       "chicken": 0.7,
@@ -1966,11 +2668,16 @@
       "mustard": 0.6,
       "lobster": 0.7
     },
-    "taste": ["fresh", "sweet"],
-    "diet": ["vegan", "vegetarian"],
+    "taste": [
+      "fresh",
+      "sweet"
+    ],
+    "diet": [
+      "vegan",
+      "vegetarian"
+    ],
     "type": "herb"
   },
-
   "chives": {
     "pairings": {
       "cream cheese": 0.7,
@@ -1979,11 +2686,16 @@
       "salmon": 0.6,
       "sour cream": 0.6
     },
-    "taste": ["savoury", "fresh"],
-    "diet": ["vegan", "vegetarian"],
+    "taste": [
+      "savoury",
+      "fresh"
+    ],
+    "diet": [
+      "vegan",
+      "vegetarian"
+    ],
     "type": "herb"
   },
-
   "bay leaf": {
     "pairings": {
       "tomato": 0.6,
@@ -1992,11 +2704,15 @@
       "garlic": 0.5,
       "thyme": 0.6
     },
-    "taste": ["savoury"],
-    "diet": ["vegan", "vegetarian"],
+    "taste": [
+      "savoury"
+    ],
+    "diet": [
+      "vegan",
+      "vegetarian"
+    ],
     "type": "herb"
   },
-
   "marjoram": {
     "pairings": {
       "tomato": 0.6,
@@ -2005,11 +2721,16 @@
       "oregano": 0.6,
       "olive oil": 0.5
     },
-    "taste": ["savoury", "sweet"],
-    "diet": ["vegan", "vegetarian"],
+    "taste": [
+      "savoury",
+      "sweet"
+    ],
+    "diet": [
+      "vegan",
+      "vegetarian"
+    ],
     "type": "herb"
   },
-
   "allspice": {
     "pairings": {
       "cinnamon": 0.7,
@@ -2018,11 +2739,16 @@
       "pork": 0.6,
       "pumpkin": 0.6
     },
-    "taste": ["sweet", "spicy"],
-    "diet": ["vegan", "vegetarian"],
+    "taste": [
+      "sweet",
+      "spicy"
+    ],
+    "diet": [
+      "vegan",
+      "vegetarian"
+    ],
     "type": "spice"
   },
-
   "coriander seed": {
     "pairings": {
       "cumin": 0.8,
@@ -2031,11 +2757,16 @@
       "chicken": 0.5,
       "lemon": 0.6
     },
-    "taste": ["savoury", "fresh"],
-    "diet": ["vegan", "vegetarian"],
+    "taste": [
+      "savoury",
+      "fresh"
+    ],
+    "diet": [
+      "vegan",
+      "vegetarian"
+    ],
     "type": "spice"
   },
-
   "fennel seed": {
     "pairings": {
       "pork": 0.7,
@@ -2044,11 +2775,16 @@
       "sausage": 0.7,
       "garlic": 0.5
     },
-    "taste": ["sweet", "savoury"],
-    "diet": ["vegan", "vegetarian"],
+    "taste": [
+      "sweet",
+      "savoury"
+    ],
+    "diet": [
+      "vegan",
+      "vegetarian"
+    ],
     "type": "spice"
   },
-
   "saffron": {
     "pairings": {
       "rice": 0.8,
@@ -2057,11 +2793,19 @@
       "lemon": 0.6,
       "tomato": 0.6
     },
-    "taste": ["sweet", "savoury"],
-    "diet": ["vegan", "vegetarian"],
-    "type": "spice"
+    "taste": [
+      "sweet",
+      "savoury"
+    ],
+    "diet": [
+      "vegan",
+      "vegetarian"
+    ],
+    "type": "spice",
+    "origin": "Bronze Age Aegean or Iran; cultivated in Persia, Kashmir, and Crete for millennia",
+    "routes": "Persian Empire → Arab traders → Moorish Spain → European monasteries and courts",
+    "context": "Labor intensity makes it the world's most expensive spice by weight. Its presence in a cuisine maps trade contact with Persian or Arab networks."
   },
-
   "fenugreek": {
     "pairings": {
       "cumin": 0.7,
@@ -2070,11 +2814,16 @@
       "ginger": 0.6,
       "tomato": 0.5
     },
-    "taste": ["bitter", "sweet"],
-    "diet": ["vegan", "vegetarian"],
+    "taste": [
+      "bitter",
+      "sweet"
+    ],
+    "diet": [
+      "vegan",
+      "vegetarian"
+    ],
     "type": "spice"
   },
-
   "szechuan pepper": {
     "pairings": {
       "chili": 0.7,
@@ -2083,11 +2832,15 @@
       "soy sauce": 0.7,
       "star anise": 0.6
     },
-    "taste": ["spicy"],
-    "diet": ["vegan", "vegetarian"],
+    "taste": [
+      "spicy"
+    ],
+    "diet": [
+      "vegan",
+      "vegetarian"
+    ],
     "type": "spice"
   },
-
   "juniper": {
     "pairings": {
       "venison": 0.8,
@@ -2096,11 +2849,16 @@
       "cabbage": 0.5,
       "black pepper": 0.5
     },
-    "taste": ["bitter", "savoury"],
-    "diet": ["vegan", "vegetarian"],
+    "taste": [
+      "bitter",
+      "savoury"
+    ],
+    "diet": [
+      "vegan",
+      "vegetarian"
+    ],
     "type": "spice"
   },
-
   "sumac": {
     "pairings": {
       "onion": 0.7,
@@ -2109,11 +2867,16 @@
       "olive oil": 0.6,
       "lemon": 0.6
     },
-    "taste": ["acidic", "savoury"],
-    "diet": ["vegan", "vegetarian"],
+    "taste": [
+      "acidic",
+      "savoury"
+    ],
+    "diet": [
+      "vegan",
+      "vegetarian"
+    ],
     "type": "spice"
   },
-
   "mustard seed": {
     "pairings": {
       "turmeric": 0.6,
@@ -2122,11 +2885,16 @@
       "potato": 0.5,
       "fish sauce": 0.5
     },
-    "taste": ["spicy", "savoury"],
-    "diet": ["vegan", "vegetarian"],
+    "taste": [
+      "spicy",
+      "savoury"
+    ],
+    "diet": [
+      "vegan",
+      "vegetarian"
+    ],
     "type": "spice"
   },
-
   "almond": {
     "pairings": {
       "apricot": 0.8,
@@ -2135,11 +2903,15 @@
       "chocolate": 0.7,
       "vanilla": 0.6
     },
-    "taste": ["sweet"],
-    "diet": ["vegan", "vegetarian"],
+    "taste": [
+      "sweet"
+    ],
+    "diet": [
+      "vegan",
+      "vegetarian"
+    ],
     "type": "nut"
   },
-
   "pistachio": {
     "pairings": {
       "rose water": 0.8,
@@ -2148,11 +2920,16 @@
       "honey": 0.6,
       "lemon": 0.5
     },
-    "taste": ["sweet", "savoury"],
-    "diet": ["vegan", "vegetarian"],
+    "taste": [
+      "sweet",
+      "savoury"
+    ],
+    "diet": [
+      "vegan",
+      "vegetarian"
+    ],
     "type": "nut"
   },
-
   "hazelnut": {
     "pairings": {
       "chocolate": 0.9,
@@ -2161,11 +2938,15 @@
       "banana": 0.6,
       "brown butter": 0.7
     },
-    "taste": ["sweet"],
-    "diet": ["vegan", "vegetarian"],
+    "taste": [
+      "sweet"
+    ],
+    "diet": [
+      "vegan",
+      "vegetarian"
+    ],
     "type": "nut"
   },
-
   "pecan": {
     "pairings": {
       "maple syrup": 0.8,
@@ -2174,11 +2955,15 @@
       "cinnamon": 0.6,
       "sweet potato": 0.6
     },
-    "taste": ["sweet"],
-    "diet": ["vegan", "vegetarian"],
+    "taste": [
+      "sweet"
+    ],
+    "diet": [
+      "vegan",
+      "vegetarian"
+    ],
     "type": "nut"
   },
-
   "cashew": {
     "pairings": {
       "coconut milk": 0.6,
@@ -2187,11 +2972,16 @@
       "ginger": 0.5,
       "honey": 0.5
     },
-    "taste": ["sweet", "savoury"],
-    "diet": ["vegan", "vegetarian"],
+    "taste": [
+      "sweet",
+      "savoury"
+    ],
+    "diet": [
+      "vegan",
+      "vegetarian"
+    ],
     "type": "nut"
   },
-
   "pine nut": {
     "pairings": {
       "basil": 0.8,
@@ -2200,11 +2990,16 @@
       "garlic": 0.6,
       "lemon": 0.5
     },
-    "taste": ["sweet", "savoury"],
-    "diet": ["vegan", "vegetarian"],
+    "taste": [
+      "sweet",
+      "savoury"
+    ],
+    "diet": [
+      "vegan",
+      "vegetarian"
+    ],
     "type": "nut"
   },
-
   "mozzarella": {
     "pairings": {
       "tomato": 0.9,
@@ -2213,11 +3008,14 @@
       "olive oil": 0.7,
       "balsamic vinegar": 0.6
     },
-    "taste": ["savoury"],
-    "diet": ["vegetarian"],
+    "taste": [
+      "savoury"
+    ],
+    "diet": [
+      "vegetarian"
+    ],
     "type": "cheese"
   },
-
   "cheddar": {
     "pairings": {
       "apple": 0.7,
@@ -2226,11 +3024,15 @@
       "broccoli": 0.6,
       "bacon": 0.6
     },
-    "taste": ["savoury", "umami"],
-    "diet": ["vegetarian"],
+    "taste": [
+      "savoury",
+      "umami"
+    ],
+    "diet": [
+      "vegetarian"
+    ],
     "type": "cheese"
   },
-
   "gruyere": {
     "pairings": {
       "onion": 0.7,
@@ -2239,11 +3041,15 @@
       "ham": 0.6,
       "white wine": 0.6
     },
-    "taste": ["savoury", "sweet"],
-    "diet": ["vegetarian"],
+    "taste": [
+      "savoury",
+      "sweet"
+    ],
+    "diet": [
+      "vegetarian"
+    ],
     "type": "cheese"
   },
-
   "ricotta": {
     "pairings": {
       "lemon": 0.7,
@@ -2252,11 +3058,15 @@
       "tomato": 0.6,
       "basil": 0.6
     },
-    "taste": ["savoury", "sweet"],
-    "diet": ["vegetarian"],
+    "taste": [
+      "savoury",
+      "sweet"
+    ],
+    "diet": [
+      "vegetarian"
+    ],
     "type": "cheese"
   },
-
   "mascarpone": {
     "pairings": {
       "coffee": 0.8,
@@ -2265,11 +3075,14 @@
       "vanilla": 0.6,
       "lemon": 0.5
     },
-    "taste": ["sweet"],
-    "diet": ["vegetarian"],
+    "taste": [
+      "sweet"
+    ],
+    "diet": [
+      "vegetarian"
+    ],
     "type": "cheese"
   },
-
   "cream cheese": {
     "pairings": {
       "smoked salmon": 0.8,
@@ -2278,11 +3091,15 @@
       "lemon": 0.5,
       "vanilla": 0.5
     },
-    "taste": ["savoury", "sweet"],
-    "diet": ["vegetarian"],
+    "taste": [
+      "savoury",
+      "sweet"
+    ],
+    "diet": [
+      "vegetarian"
+    ],
     "type": "dairy"
   },
-
   "buttermilk": {
     "pairings": {
       "chicken": 0.7,
@@ -2291,11 +3108,15 @@
       "dill": 0.5,
       "garlic": 0.5
     },
-    "taste": ["acidic", "savoury"],
-    "diet": ["vegetarian"],
+    "taste": [
+      "acidic",
+      "savoury"
+    ],
+    "diet": [
+      "vegetarian"
+    ],
     "type": "dairy"
   },
-
   "sour cream": {
     "pairings": {
       "chives": 0.6,
@@ -2304,11 +3125,15 @@
       "paprika": 0.5,
       "lime": 0.5
     },
-    "taste": ["acidic", "savoury"],
-    "diet": ["vegetarian"],
+    "taste": [
+      "acidic",
+      "savoury"
+    ],
+    "diet": [
+      "vegetarian"
+    ],
     "type": "dairy"
   },
-
   "quinoa": {
     "pairings": {
       "lemon": 0.6,
@@ -2317,11 +3142,15 @@
       "olive oil": 0.5,
       "feta": 0.5
     },
-    "taste": ["savoury"],
-    "diet": ["vegan", "vegetarian"],
+    "taste": [
+      "savoury"
+    ],
+    "diet": [
+      "vegan",
+      "vegetarian"
+    ],
     "type": "grain"
   },
-
   "couscous": {
     "pairings": {
       "lemon": 0.6,
@@ -2330,11 +3159,15 @@
       "chickpeas": 0.6,
       "cumin": 0.5
     },
-    "taste": ["savoury"],
-    "diet": ["vegan", "vegetarian"],
+    "taste": [
+      "savoury"
+    ],
+    "diet": [
+      "vegan",
+      "vegetarian"
+    ],
     "type": "grain"
   },
-
   "oat": {
     "pairings": {
       "honey": 0.7,
@@ -2343,11 +3176,16 @@
       "blueberry": 0.6,
       "maple syrup": 0.6
     },
-    "taste": ["sweet", "savoury"],
-    "diet": ["vegan", "vegetarian"],
+    "taste": [
+      "sweet",
+      "savoury"
+    ],
+    "diet": [
+      "vegan",
+      "vegetarian"
+    ],
     "type": "grain"
   },
-
   "barley": {
     "pairings": {
       "mushroom": 0.7,
@@ -2356,11 +3194,15 @@
       "parsley": 0.5,
       "lemon": 0.5
     },
-    "taste": ["savoury"],
-    "diet": ["vegan", "vegetarian"],
+    "taste": [
+      "savoury"
+    ],
+    "diet": [
+      "vegan",
+      "vegetarian"
+    ],
     "type": "grain"
   },
-
   "black bean": {
     "pairings": {
       "cumin": 0.7,
@@ -2369,11 +3211,15 @@
       "chili": 0.6,
       "garlic": 0.6
     },
-    "taste": ["savoury"],
-    "diet": ["vegan", "vegetarian"],
+    "taste": [
+      "savoury"
+    ],
+    "diet": [
+      "vegan",
+      "vegetarian"
+    ],
     "type": "legume"
   },
-
   "white bean": {
     "pairings": {
       "garlic": 0.7,
@@ -2382,11 +3228,15 @@
       "tomato": 0.6,
       "sage": 0.6
     },
-    "taste": ["savoury"],
-    "diet": ["vegan", "vegetarian"],
+    "taste": [
+      "savoury"
+    ],
+    "diet": [
+      "vegan",
+      "vegetarian"
+    ],
     "type": "legume"
   },
-
   "red wine vinegar": {
     "pairings": {
       "shallot": 0.7,
@@ -2395,11 +3245,15 @@
       "garlic": 0.5,
       "oregano": 0.5
     },
-    "taste": ["acidic"],
-    "diet": ["vegan", "vegetarian"],
+    "taste": [
+      "acidic"
+    ],
+    "diet": [
+      "vegan",
+      "vegetarian"
+    ],
     "type": "acid"
   },
-
   "white wine vinegar": {
     "pairings": {
       "shallot": 0.6,
@@ -2408,11 +3262,15 @@
       "olive oil": 0.6,
       "honey": 0.5
     },
-    "taste": ["acidic"],
-    "diet": ["vegan", "vegetarian"],
+    "taste": [
+      "acidic"
+    ],
+    "diet": [
+      "vegan",
+      "vegetarian"
+    ],
     "type": "acid"
   },
-
   "yuzu": {
     "pairings": {
       "soy sauce": 0.7,
@@ -2421,11 +3279,16 @@
       "honey": 0.5,
       "chili": 0.5
     },
-    "taste": ["acidic", "bitter"],
-    "diet": ["vegan", "vegetarian"],
+    "taste": [
+      "acidic",
+      "bitter"
+    ],
+    "diet": [
+      "vegan",
+      "vegetarian"
+    ],
     "type": "acid"
   },
-
   "pomegranate molasses": {
     "pairings": {
       "walnut": 0.7,
@@ -2434,11 +3297,16 @@
       "yoghurt": 0.5,
       "olive oil": 0.5
     },
-    "taste": ["acidic", "sweet"],
-    "diet": ["vegan", "vegetarian"],
+    "taste": [
+      "acidic",
+      "sweet"
+    ],
+    "diet": [
+      "vegan",
+      "vegetarian"
+    ],
     "type": "acid"
   },
-
   "horseradish": {
     "pairings": {
       "beef": 0.8,
@@ -2447,11 +3315,15 @@
       "cream": 0.6,
       "mackerel": 0.6
     },
-    "taste": ["spicy"],
-    "diet": ["vegan", "vegetarian"],
+    "taste": [
+      "spicy"
+    ],
+    "diet": [
+      "vegan",
+      "vegetarian"
+    ],
     "type": "aromatic"
   },
-
   "spring onion": {
     "pairings": {
       "ginger": 0.7,
@@ -2460,11 +3332,16 @@
       "garlic": 0.6,
       "tofu": 0.5
     },
-    "taste": ["savoury", "fresh"],
-    "diet": ["vegan", "vegetarian"],
+    "taste": [
+      "savoury",
+      "fresh"
+    ],
+    "diet": [
+      "vegan",
+      "vegetarian"
+    ],
     "type": "aromatic"
   },
-
   "doenjang": {
     "pairings": {
       "garlic": 0.7,
@@ -2473,11 +3350,16 @@
       "chili": 0.6,
       "spring onion": 0.6
     },
-    "taste": ["savoury", "umami"],
-    "diet": ["vegan", "vegetarian"],
+    "taste": [
+      "savoury",
+      "umami"
+    ],
+    "diet": [
+      "vegan",
+      "vegetarian"
+    ],
     "type": "fermented"
   },
-
   "white wine": {
     "pairings": {
       "butter": 0.7,
@@ -2486,11 +3368,16 @@
       "cream": 0.6,
       "lemon": 0.6
     },
-    "taste": ["acidic", "sweet"],
-    "diet": ["vegan", "vegetarian"],
+    "taste": [
+      "acidic",
+      "sweet"
+    ],
+    "diet": [
+      "vegan",
+      "vegetarian"
+    ],
     "type": "acid"
   },
-
   "brown sugar": {
     "pairings": {
       "cinnamon": 0.7,
@@ -2499,11 +3386,15 @@
       "vanilla": 0.6,
       "oat": 0.6
     },
-    "taste": ["sweet"],
-    "diet": ["vegan", "vegetarian"],
+    "taste": [
+      "sweet"
+    ],
+    "diet": [
+      "vegan",
+      "vegetarian"
+    ],
     "type": "sweet"
   },
-
   "molasses": {
     "pairings": {
       "ginger": 0.7,
@@ -2512,11 +3403,16 @@
       "butter": 0.5,
       "brown sugar": 0.6
     },
-    "taste": ["sweet", "bitter"],
-    "diet": ["vegan", "vegetarian"],
+    "taste": [
+      "sweet",
+      "bitter"
+    ],
+    "diet": [
+      "vegan",
+      "vegetarian"
+    ],
     "type": "sweet"
   },
-
   "caramel": {
     "pairings": {
       "apple": 0.8,
@@ -2525,11 +3421,14 @@
       "vanilla": 0.7,
       "butter": 0.7
     },
-    "taste": ["sweet"],
-    "diet": ["vegetarian"],
+    "taste": [
+      "sweet"
+    ],
+    "diet": [
+      "vegetarian"
+    ],
     "type": "sweet"
   },
-
   "brown butter": {
     "pairings": {
       "sage": 0.8,
@@ -2538,11 +3437,15 @@
       "parmesan": 0.6,
       "squash": 0.7
     },
-    "taste": ["savoury", "sweet"],
-    "diet": ["vegetarian"],
+    "taste": [
+      "savoury",
+      "sweet"
+    ],
+    "diet": [
+      "vegetarian"
+    ],
     "type": "fat"
   },
-
   "squash": {
     "pairings": {
       "sage": 0.7,
@@ -2551,11 +3454,16 @@
       "maple syrup": 0.5,
       "parmesan": 0.6
     },
-    "taste": ["sweet", "savoury"],
-    "diet": ["vegan", "vegetarian"],
+    "taste": [
+      "sweet",
+      "savoury"
+    ],
+    "diet": [
+      "vegan",
+      "vegetarian"
+    ],
     "type": "vegetable"
   },
-
   "pumpkin": {
     "pairings": {
       "cinnamon": 0.7,
@@ -2564,11 +3472,16 @@
       "maple syrup": 0.6,
       "cream": 0.5
     },
-    "taste": ["sweet", "savoury"],
-    "diet": ["vegan", "vegetarian"],
+    "taste": [
+      "sweet",
+      "savoury"
+    ],
+    "diet": [
+      "vegan",
+      "vegetarian"
+    ],
     "type": "vegetable"
   },
-
   "smoked salmon": {
     "pairings": {
       "cream cheese": 0.8,
@@ -2577,11 +3490,13 @@
       "caper": 0.7,
       "chives": 0.6
     },
-    "taste": ["savoury", "umami"],
+    "taste": [
+      "savoury",
+      "umami"
+    ],
     "diet": [],
     "type": "protein"
   },
-
   "caper": {
     "pairings": {
       "lemon": 0.7,
@@ -2590,11 +3505,16 @@
       "tomato": 0.6,
       "anchovy": 0.6
     },
-    "taste": ["acidic", "savoury"],
-    "diet": ["vegan", "vegetarian"],
+    "taste": [
+      "acidic",
+      "savoury"
+    ],
+    "diet": [
+      "vegan",
+      "vegetarian"
+    ],
     "type": "fermented"
   },
-
   "rose water": {
     "pairings": {
       "pistachio": 0.8,
@@ -2603,11 +3523,15 @@
       "honey": 0.6,
       "vanilla": 0.5
     },
-    "taste": ["sweet"],
-    "diet": ["vegan", "vegetarian"],
+    "taste": [
+      "sweet"
+    ],
+    "diet": [
+      "vegan",
+      "vegetarian"
+    ],
     "type": "aromatic"
   },
-
   "sea salt": {
     "pairings": {
       "caramel": 0.8,
@@ -2616,11 +3540,15 @@
       "butter": 0.6,
       "watermelon": 0.5
     },
-    "taste": ["savoury"],
-    "diet": ["vegan", "vegetarian"],
+    "taste": [
+      "savoury"
+    ],
+    "diet": [
+      "vegan",
+      "vegetarian"
+    ],
     "type": "spice"
   },
-
   "prune": {
     "pairings": {
       "rabbit": 0.6,
@@ -2629,11 +3557,15 @@
       "cinnamon": 0.5,
       "orange": 0.5
     },
-    "taste": ["sweet"],
-    "diet": ["vegan", "vegetarian"],
+    "taste": [
+      "sweet"
+    ],
+    "diet": [
+      "vegan",
+      "vegetarian"
+    ],
     "type": "fruit"
   },
-
   "gooseberry": {
     "pairings": {
       "mackerel": 0.6,
@@ -2642,11 +3574,16 @@
       "cream": 0.5,
       "ginger": 0.5
     },
-    "taste": ["acidic", "sweet"],
-    "diet": ["vegan", "vegetarian"],
+    "taste": [
+      "acidic",
+      "sweet"
+    ],
+    "diet": [
+      "vegan",
+      "vegetarian"
+    ],
     "type": "fruit"
   },
-
   "elderflower": {
     "pairings": {
       "gooseberry": 0.6,
@@ -2655,11 +3592,15 @@
       "white wine": 0.6,
       "pear": 0.5
     },
-    "taste": ["sweet"],
-    "diet": ["vegan", "vegetarian"],
+    "taste": [
+      "sweet"
+    ],
+    "diet": [
+      "vegan",
+      "vegetarian"
+    ],
     "type": "aromatic"
   },
-
   "hollandaise": {
     "pairings": {
       "asparagus": 0.8,
@@ -2668,11 +3609,15 @@
       "lemon": 0.6,
       "ham": 0.6
     },
-    "taste": ["savoury", "acidic"],
-    "diet": ["vegetarian"],
+    "taste": [
+      "savoury",
+      "acidic"
+    ],
+    "diet": [
+      "vegetarian"
+    ],
     "type": "sauce"
   },
-
   "mandioca": {
     "pairings": {
       "coconut milk": 0.7,
@@ -2681,11 +3626,18 @@
       "garlic": 0.6,
       "butter": 0.6
     },
-    "taste": ["savoury"],
-    "diet": ["vegan", "vegetarian"],
-    "type": "vegetable"
+    "taste": [
+      "savoury"
+    ],
+    "diet": [
+      "vegan",
+      "vegetarian"
+    ],
+    "type": "vegetable",
+    "origin": "Amazonia/Brazilian lowlands; domesticated ~8000 BCE by Indigenous peoples, fundamental to Tupi and other groups",
+    "routes": "Portuguese colonial staple crop for enslaved populations → carried to West Africa and Southeast Asia via Portuguese trade networks",
+    "context": "Indigenous processing knowledge (removing cyanide through complex preparation) was appropriated without credit. Became slave ration food in Brazil while remaining sacred to Indigenous cosmologies."
   },
-
   "plantain": {
     "pairings": {
       "black bean": 0.7,
@@ -2694,11 +3646,16 @@
       "chili": 0.5,
       "sour cream": 0.5
     },
-    "taste": ["sweet", "savoury"],
-    "diet": ["vegan", "vegetarian"],
+    "taste": [
+      "sweet",
+      "savoury"
+    ],
+    "diet": [
+      "vegan",
+      "vegetarian"
+    ],
     "type": "vegetable"
   },
-
   "jerk seasoning": {
     "pairings": {
       "chicken": 0.8,
@@ -2707,11 +3664,16 @@
       "mango": 0.6,
       "coconut milk": 0.5
     },
-    "taste": ["spicy", "sweet"],
-    "diet": ["vegan", "vegetarian"],
+    "taste": [
+      "spicy",
+      "sweet"
+    ],
+    "diet": [
+      "vegan",
+      "vegetarian"
+    ],
     "type": "spice"
   },
-
   "scotch bonnet": {
     "pairings": {
       "mango": 0.7,
@@ -2720,11 +3682,15 @@
       "thyme": 0.6,
       "coconut milk": 0.6
     },
-    "taste": ["spicy"],
-    "diet": ["vegan", "vegetarian"],
+    "taste": [
+      "spicy"
+    ],
+    "diet": [
+      "vegan",
+      "vegetarian"
+    ],
     "type": "spice"
   },
-
   "ackee": {
     "pairings": {
       "cod": 0.8,
@@ -2733,11 +3699,15 @@
       "onion": 0.6,
       "tomato": 0.5
     },
-    "taste": ["savoury"],
-    "diet": ["vegan", "vegetarian"],
+    "taste": [
+      "savoury"
+    ],
+    "diet": [
+      "vegan",
+      "vegetarian"
+    ],
     "type": "fruit"
   },
-
   "okra": {
     "pairings": {
       "tomato": 0.7,
@@ -2746,11 +3716,15 @@
       "cumin": 0.5,
       "lemon": 0.5
     },
-    "taste": ["savoury"],
-    "diet": ["vegan", "vegetarian"],
+    "taste": [
+      "savoury"
+    ],
+    "diet": [
+      "vegan",
+      "vegetarian"
+    ],
     "type": "vegetable"
   },
-
   "yam": {
     "pairings": {
       "butter": 0.6,
@@ -2759,11 +3733,16 @@
       "ginger": 0.5,
       "chili": 0.5
     },
-    "taste": ["sweet", "savoury"],
-    "diet": ["vegan", "vegetarian"],
+    "taste": [
+      "sweet",
+      "savoury"
+    ],
+    "diet": [
+      "vegan",
+      "vegetarian"
+    ],
     "type": "vegetable"
   },
-
   "palm oil": {
     "pairings": {
       "garlic": 0.6,
@@ -2772,11 +3751,18 @@
       "shrimp": 0.5,
       "mandioca": 0.6
     },
-    "taste": ["savoury"],
-    "diet": ["vegan", "vegetarian"],
-    "type": "fat"
+    "taste": [
+      "savoury"
+    ],
+    "diet": [
+      "vegan",
+      "vegetarian"
+    ],
+    "type": "fat",
+    "origin": "West and Central Africa; used for millennia across the Gulf of Guinea region",
+    "routes": "Transatlantic slave trade carried it to Brazil → 19th-century 'legitimate commerce' replaced slave exports → Southeast Asian industrial plantations",
+    "context": "Post-abolition, European demand for palm oil restructured West African economies. Now the world's most consumed vegetable oil, driving mass deforestation in Indonesia and Malaysia."
   },
-
   "dendê": {
     "pairings": {
       "coconut milk": 0.7,
@@ -2785,11 +3771,18 @@
       "garlic": 0.6,
       "chili": 0.5
     },
-    "taste": ["savoury"],
-    "diet": ["vegan", "vegetarian"],
-    "type": "fat"
+    "taste": [
+      "savoury"
+    ],
+    "diet": [
+      "vegan",
+      "vegetarian"
+    ],
+    "type": "fat",
+    "origin": "West Africa (Elaeis guineensis); carried to Brazil by enslaved Africans during the transatlantic slave trade",
+    "routes": "Gulf of Guinea → Salvador da Bahia via slave ships → foundational to Afro-Brazilian (Candomblé) cuisine",
+    "context": "Inseparable from Candomblé religious practice and Bahian identity. Dendê-based dishes like acarajé and moqueca are living archives of African survival and resistance in Brazil."
   },
-
   "black-eyed pea": {
     "pairings": {
       "garlic": 0.6,
@@ -2798,11 +3791,15 @@
       "shrimp": 0.5,
       "cumin": 0.5
     },
-    "taste": ["savoury"],
-    "diet": ["vegan", "vegetarian"],
+    "taste": [
+      "savoury"
+    ],
+    "diet": [
+      "vegan",
+      "vegetarian"
+    ],
     "type": "legume"
   },
-
   "coconut water": {
     "pairings": {
       "lime": 0.6,
@@ -2811,11 +3808,16 @@
       "ginger": 0.5,
       "mint": 0.5
     },
-    "taste": ["sweet", "fresh"],
-    "diet": ["vegan", "vegetarian"],
+    "taste": [
+      "sweet",
+      "fresh"
+    ],
+    "diet": [
+      "vegan",
+      "vegetarian"
+    ],
     "type": "fruit"
   },
-
   "açaí": {
     "pairings": {
       "banana": 0.7,
@@ -2824,11 +3826,19 @@
       "strawberry": 0.6,
       "coconut": 0.5
     },
-    "taste": ["sweet", "acidic"],
-    "diet": ["vegan", "vegetarian"],
-    "type": "fruit"
+    "taste": [
+      "sweet",
+      "acidic"
+    ],
+    "diet": [
+      "vegan",
+      "vegetarian"
+    ],
+    "type": "fruit",
+    "origin": "Amazon River estuary; staple food of Caboclo and Indigenous Amazonian communities for centuries",
+    "routes": "Remained hyper-local until late 20th century → Brazilian surf/fitness culture adopted it → global 'superfood' commodity boom post-2000",
+    "context": "Western demand inflated local prices, making a staple unaffordable for origin communities. A textbook case of superfood economics and extractive consumption."
   },
-
   "granola": {
     "pairings": {
       "yoghurt": 0.7,
@@ -2837,11 +3847,15 @@
       "açaí": 0.6,
       "blueberry": 0.6
     },
-    "taste": ["sweet"],
-    "diet": ["vegan", "vegetarian"],
+    "taste": [
+      "sweet"
+    ],
+    "diet": [
+      "vegan",
+      "vegetarian"
+    ],
     "type": "grain"
   },
-
   "berbere": {
     "pairings": {
       "lamb": 0.7,
@@ -2850,11 +3864,16 @@
       "onion": 0.6,
       "garlic": 0.6
     },
-    "taste": ["spicy", "sweet"],
-    "diet": ["vegan", "vegetarian"],
+    "taste": [
+      "spicy",
+      "sweet"
+    ],
+    "diet": [
+      "vegan",
+      "vegetarian"
+    ],
     "type": "spice"
   },
-
   "ras el hanout": {
     "pairings": {
       "lamb": 0.7,
@@ -2863,11 +3882,16 @@
       "honey": 0.5,
       "apricot": 0.6
     },
-    "taste": ["sweet", "spicy"],
-    "diet": ["vegan", "vegetarian"],
+    "taste": [
+      "sweet",
+      "spicy"
+    ],
+    "diet": [
+      "vegan",
+      "vegetarian"
+    ],
     "type": "spice"
   },
-
   "preserved lemon": {
     "pairings": {
       "olive oil": 0.7,
@@ -2876,11 +3900,16 @@
       "couscous": 0.6,
       "harissa": 0.6
     },
-    "taste": ["acidic", "savoury"],
-    "diet": ["vegan", "vegetarian"],
+    "taste": [
+      "acidic",
+      "savoury"
+    ],
+    "diet": [
+      "vegan",
+      "vegetarian"
+    ],
     "type": "fermented"
   },
-
   "za'atar": {
     "pairings": {
       "olive oil": 0.8,
@@ -2889,11 +3918,15 @@
       "chicken": 0.6,
       "feta": 0.5
     },
-    "taste": ["savoury"],
-    "diet": ["vegan", "vegetarian"],
+    "taste": [
+      "savoury"
+    ],
+    "diet": [
+      "vegan",
+      "vegetarian"
+    ],
     "type": "spice"
   },
-
   "dukkah": {
     "pairings": {
       "olive oil": 0.7,
@@ -2902,11 +3935,16 @@
       "avocado": 0.5,
       "lemon": 0.5
     },
-    "taste": ["savoury", "spicy"],
-    "diet": ["vegan", "vegetarian"],
+    "taste": [
+      "savoury",
+      "spicy"
+    ],
+    "diet": [
+      "vegan",
+      "vegetarian"
+    ],
     "type": "spice"
   },
-
   "mirin": {
     "pairings": {
       "soy sauce": 0.8,
@@ -2915,11 +3953,15 @@
       "sake": 0.7,
       "sesame oil": 0.5
     },
-    "taste": ["sweet"],
-    "diet": ["vegan", "vegetarian"],
+    "taste": [
+      "sweet"
+    ],
+    "diet": [
+      "vegan",
+      "vegetarian"
+    ],
     "type": "sweet"
   },
-
   "sake": {
     "pairings": {
       "mirin": 0.7,
@@ -2928,11 +3970,16 @@
       "dashi": 0.7,
       "mushroom": 0.5
     },
-    "taste": ["sweet", "acidic"],
-    "diet": ["vegan", "vegetarian"],
+    "taste": [
+      "sweet",
+      "acidic"
+    ],
+    "diet": [
+      "vegan",
+      "vegetarian"
+    ],
     "type": "acid"
   },
-
   "dashi": {
     "pairings": {
       "miso": 0.8,
@@ -2941,11 +3988,16 @@
       "tofu": 0.6,
       "spring onion": 0.6
     },
-    "taste": ["umami", "savoury"],
-    "diet": ["vegan", "vegetarian"],
+    "taste": [
+      "umami",
+      "savoury"
+    ],
+    "diet": [
+      "vegan",
+      "vegetarian"
+    ],
     "type": "umami"
   },
-
   "nori": {
     "pairings": {
       "rice": 0.8,
@@ -2954,11 +4006,16 @@
       "avocado": 0.6,
       "tuna": 0.6
     },
-    "taste": ["umami", "savoury"],
-    "diet": ["vegan", "vegetarian"],
+    "taste": [
+      "umami",
+      "savoury"
+    ],
+    "diet": [
+      "vegan",
+      "vegetarian"
+    ],
     "type": "umami"
   },
-
   "wasabi": {
     "pairings": {
       "soy sauce": 0.7,
@@ -2967,11 +4024,15 @@
       "avocado": 0.5,
       "ginger": 0.5
     },
-    "taste": ["spicy"],
-    "diet": ["vegan", "vegetarian"],
+    "taste": [
+      "spicy"
+    ],
+    "diet": [
+      "vegan",
+      "vegetarian"
+    ],
     "type": "aromatic"
   },
-
   "shiitake": {
     "pairings": {
       "soy sauce": 0.7,
@@ -2980,11 +4041,16 @@
       "sesame oil": 0.6,
       "miso": 0.6
     },
-    "taste": ["umami", "savoury"],
-    "diet": ["vegan", "vegetarian"],
+    "taste": [
+      "umami",
+      "savoury"
+    ],
+    "diet": [
+      "vegan",
+      "vegetarian"
+    ],
     "type": "vegetable"
   },
-
   "mole": {
     "pairings": {
       "chocolate": 0.7,
@@ -2993,11 +4059,20 @@
       "cinnamon": 0.5,
       "cumin": 0.5
     },
-    "taste": ["spicy", "sweet", "bitter"],
-    "diet": ["vegan", "vegetarian"],
-    "type": "sauce"
+    "taste": [
+      "spicy",
+      "sweet",
+      "bitter"
+    ],
+    "diet": [
+      "vegan",
+      "vegetarian"
+    ],
+    "type": "sauce",
+    "origin": "Mesoamerica; complex sauce traditions rooted in pre-Columbian Nahua and Zapotec cuisines, elaborated in colonial-era convents",
+    "routes": "Indigenous base → Spanish colonial-era synthesis in Puebla/Oaxaca convents → Mexican national symbol",
+    "context": "Mole is mestizaje in material form — cacao, chili, and tomato (Indigenous) meet cinnamon, clove, and sesame (colonial imports). Its complexity encodes the violence and creativity of cultural collision."
   },
-
   "tomatillo": {
     "pairings": {
       "chili": 0.7,
@@ -3006,11 +4081,16 @@
       "garlic": 0.6,
       "avocado": 0.6
     },
-    "taste": ["acidic", "savoury"],
-    "diet": ["vegan", "vegetarian"],
+    "taste": [
+      "acidic",
+      "savoury"
+    ],
+    "diet": [
+      "vegan",
+      "vegetarian"
+    ],
     "type": "vegetable"
   },
-
   "chipotle": {
     "pairings": {
       "lime": 0.7,
@@ -3019,11 +4099,16 @@
       "avocado": 0.5,
       "chocolate": 0.5
     },
-    "taste": ["spicy", "savoury"],
-    "diet": ["vegan", "vegetarian"],
+    "taste": [
+      "spicy",
+      "savoury"
+    ],
+    "diet": [
+      "vegan",
+      "vegetarian"
+    ],
     "type": "spice"
   },
-
   "epazote": {
     "pairings": {
       "black bean": 0.7,
@@ -3032,11 +4117,15 @@
       "garlic": 0.5,
       "onion": 0.5
     },
-    "taste": ["savoury"],
-    "diet": ["vegan", "vegetarian"],
+    "taste": [
+      "savoury"
+    ],
+    "diet": [
+      "vegan",
+      "vegetarian"
+    ],
     "type": "herb"
   },
-
   "achiote": {
     "pairings": {
       "lime": 0.6,
@@ -3045,11 +4134,15 @@
       "pork": 0.6,
       "chili": 0.5
     },
-    "taste": ["savoury"],
-    "diet": ["vegan", "vegetarian"],
+    "taste": [
+      "savoury"
+    ],
+    "diet": [
+      "vegan",
+      "vegetarian"
+    ],
     "type": "spice"
   },
-
   "pandan": {
     "pairings": {
       "coconut milk": 0.8,
@@ -3058,11 +4151,15 @@
       "sugar": 0.6,
       "palm sugar": 0.7
     },
-    "taste": ["sweet"],
-    "diet": ["vegan", "vegetarian"],
+    "taste": [
+      "sweet"
+    ],
+    "diet": [
+      "vegan",
+      "vegetarian"
+    ],
     "type": "aromatic"
   },
-
   "palm sugar": {
     "pairings": {
       "coconut milk": 0.7,
@@ -3071,11 +4168,15 @@
       "tamarind": 0.6,
       "chili": 0.5
     },
-    "taste": ["sweet"],
-    "diet": ["vegan", "vegetarian"],
+    "taste": [
+      "sweet"
+    ],
+    "diet": [
+      "vegan",
+      "vegetarian"
+    ],
     "type": "sweet"
   },
-
   "kaffir lime leaf": {
     "pairings": {
       "coconut milk": 0.8,
@@ -3084,11 +4185,16 @@
       "chili": 0.6,
       "shrimp": 0.6
     },
-    "taste": ["fresh", "acidic"],
-    "diet": ["vegan", "vegetarian"],
+    "taste": [
+      "fresh",
+      "acidic"
+    ],
+    "diet": [
+      "vegan",
+      "vegetarian"
+    ],
     "type": "herb"
   },
-
   "sambal": {
     "pairings": {
       "garlic": 0.7,
@@ -3097,11 +4203,16 @@
       "egg": 0.5,
       "soy sauce": 0.6
     },
-    "taste": ["spicy", "savoury"],
-    "diet": ["vegan", "vegetarian"],
+    "taste": [
+      "spicy",
+      "savoury"
+    ],
+    "diet": [
+      "vegan",
+      "vegetarian"
+    ],
     "type": "fermented"
   },
-
   "paneer": {
     "pairings": {
       "cumin": 0.6,
@@ -3110,11 +4221,14 @@
       "garlic": 0.6,
       "ginger": 0.5
     },
-    "taste": ["savoury"],
-    "diet": ["vegetarian"],
+    "taste": [
+      "savoury"
+    ],
+    "diet": [
+      "vegetarian"
+    ],
     "type": "dairy"
   },
-
   "curry leaf": {
     "pairings": {
       "mustard seed": 0.7,
@@ -3123,11 +4237,15 @@
       "ginger": 0.6,
       "turmeric": 0.6
     },
-    "taste": ["savoury"],
-    "diet": ["vegan", "vegetarian"],
+    "taste": [
+      "savoury"
+    ],
+    "diet": [
+      "vegan",
+      "vegetarian"
+    ],
     "type": "herb"
   },
-
   "asafoetida": {
     "pairings": {
       "cumin": 0.6,
@@ -3136,11 +4254,16 @@
       "garlic": 0.5,
       "mustard seed": 0.5
     },
-    "taste": ["savoury", "umami"],
-    "diet": ["vegan", "vegetarian"],
+    "taste": [
+      "savoury",
+      "umami"
+    ],
+    "diet": [
+      "vegan",
+      "vegetarian"
+    ],
     "type": "spice"
   },
-
   "jaggery": {
     "pairings": {
       "ginger": 0.6,
@@ -3149,11 +4272,15 @@
       "cardamom": 0.5,
       "ghee": 0.6
     },
-    "taste": ["sweet"],
-    "diet": ["vegan", "vegetarian"],
+    "taste": [
+      "sweet"
+    ],
+    "diet": [
+      "vegan",
+      "vegetarian"
+    ],
     "type": "sweet"
   },
-
   "chatni": {
     "pairings": {
       "mint": 0.7,
@@ -3162,11 +4289,17 @@
       "chili": 0.6,
       "ginger": 0.5
     },
-    "taste": ["acidic", "spicy", "fresh"],
-    "diet": ["vegan", "vegetarian"],
+    "taste": [
+      "acidic",
+      "spicy",
+      "fresh"
+    ],
+    "diet": [
+      "vegan",
+      "vegetarian"
+    ],
     "type": "sauce"
   },
-
   "mastic": {
     "pairings": {
       "rose water": 0.6,
@@ -3175,11 +4308,15 @@
       "cream": 0.5,
       "lemon": 0.5
     },
-    "taste": ["sweet"],
-    "diet": ["vegan", "vegetarian"],
+    "taste": [
+      "sweet"
+    ],
+    "diet": [
+      "vegan",
+      "vegetarian"
+    ],
     "type": "spice"
   },
-
   "nigella seed": {
     "pairings": {
       "potato": 0.6,
@@ -3188,11 +4325,16 @@
       "lemon": 0.5,
       "yoghurt": 0.5
     },
-    "taste": ["savoury", "bitter"],
-    "diet": ["vegan", "vegetarian"],
+    "taste": [
+      "savoury",
+      "bitter"
+    ],
+    "diet": [
+      "vegan",
+      "vegetarian"
+    ],
     "type": "spice"
   },
-
   "labneh": {
     "pairings": {
       "olive oil": 0.7,
@@ -3201,11 +4343,15 @@
       "mint": 0.6,
       "garlic": 0.5
     },
-    "taste": ["acidic", "savoury"],
-    "diet": ["vegetarian"],
+    "taste": [
+      "acidic",
+      "savoury"
+    ],
+    "diet": [
+      "vegetarian"
+    ],
     "type": "dairy"
   },
-
   "halloumi": {
     "pairings": {
       "lemon": 0.6,
@@ -3214,9 +4360,12 @@
       "olive oil": 0.6,
       "chili": 0.5
     },
-    "taste": ["savoury"],
-    "diet": ["vegetarian"],
+    "taste": [
+      "savoury"
+    ],
+    "diet": [
+      "vegetarian"
+    ],
     "type": "cheese"
   }
 }
-

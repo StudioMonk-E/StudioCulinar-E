@@ -182,7 +182,14 @@ with tab_archive:
             f"**Diet:** {', '.join(meta['diet']) if meta['diet'] else 'unrestricted'}"
         )
 
+        if "origin" in meta:
+            st.markdown("---")
+            st.markdown(f"**Origin:** {meta['origin']}")
+            st.markdown(f"**Routes:** {meta['routes']}")
+            st.markdown(f"**Context:** {meta['context']}")
+
         st.markdown("---")
+        st.markdown("**Connections**")
 
         pairs = meta["pairings"]
         sorted_pairs = sorted(pairs.items(), key=lambda x: x[1], reverse=True)
