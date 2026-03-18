@@ -12,7 +12,7 @@ Studio Culinar-E treats ingredients as building materials. Instead of asking "wh
 
 Pick two ingredients. The studio drafts a **blueprint** — finding **keystones** (bridge ingredients) that structurally link them, ranked by bond strength. It also tells you when two ingredients already share a direct **foundation**, so you know when a bridge isn't even necessary.
 
-249 ingredients. Symmetric pairing data. Cultural range from açaí to za'atar, mandioca to mole, dendê to dashi.
+334 ingredients. Symmetric pairing data. Cultural range from açaí to za'atar, mandioca to mole, dendê to dashi, egusi to doubanjiang.
 
 ## How to use
 
