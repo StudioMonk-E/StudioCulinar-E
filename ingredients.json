@@ -121,7 +121,10 @@
     "diet": [
       "vegetarian"
     ],
-    "type": "fermented"
+    "type": "fermented",
+    "origin": "Korea; fermented chili paste developed after chili peppers arrived from the Americas (post-16th century)",
+    "routes": "Columbian Exchange → chili reached Korea via Japanese/Portuguese trade → merged with existing Korean fermented paste (meju) traditions",
+    "context": "A Columbian Exchange product deeply embedded in Korean identity. Like harissa, it demonstrates how a foreign ingredient can become a national staple within centuries."
   },
   "chicken": {
     "pairings": {
@@ -167,7 +170,10 @@
       "vegan",
       "vegetarian"
     ],
-    "type": "protein"
+    "type": "protein",
+    "origin": "Near East (Fertile Crescent); among the oldest cultivated crops (~11,000 years ago)",
+    "routes": "Fertile Crescent → spread across Mediterranean, South Asia, and Ethiopia via ancient trade",
+    "context": "One of humanity's first crops. Dal in South Asia is both subsistence food and marker of vegetarian caste practice — encoding class in what appears to be a humble staple."
   },
   "yoghurt": {
     "pairings": {
@@ -223,7 +229,10 @@
       "vegan",
       "vegetarian"
     ],
-    "type": "fat"
+    "type": "fat",
+    "origin": "South America (peanut domesticated in Bolivia/Paraguay ~7600 years ago); ground peanut pastes existed across multiple cultures",
+    "routes": "South America → Africa via Portuguese slave trade → African cuisines adopted it → returned to Americas as 'African' foodway → industrialized in US",
+    "context": "Peanut's circular Atlantic journey encodes the complexity of Columbian Exchange. George Washington Carver's peanut research was explicitly tied to Black economic self-sufficiency in the post-Reconstruction South."
   },
   "mushroom": {
     "pairings": {
@@ -258,7 +267,10 @@
       "vegan",
       "vegetarian"
     ],
-    "type": "protein"
+    "type": "protein",
+    "origin": "Southeastern Turkey/Northern Syria; one of the earliest domesticated legumes (~7500 BCE)",
+    "routes": "Fertile Crescent → Mediterranean via Phoenician/Roman trade → Indian subcontinent → global staple",
+    "context": "Hummus has become a contested cultural property between Israeli and Palestinian/Lebanese national narratives — a food sovereignty battleground in the modern Middle East."
   },
   "egg": {
     "pairings": {
@@ -1069,7 +1081,10 @@
       "vegan",
       "vegetarian"
     ],
-    "type": "fat"
+    "type": "fat",
+    "origin": "Indus Valley/East Africa; sesame is one of the oldest cultivated oilseed crops (~3500 BCE)",
+    "routes": "Indus Valley → spread east to China and west to Africa → enslaved Africans brought sesame (benne) to the American South",
+    "context": "Benne seeds in the American South are direct material evidence of enslaved Africans preserving foodways through the Middle Passage."
   },
   "sugar": {
     "pairings": {
@@ -1106,7 +1121,10 @@
       "vegan",
       "vegetarian"
     ],
-    "type": "protein"
+    "type": "protein",
+    "origin": "China, likely Han dynasty (~200 BCE); attributed to Prince Liu An of Huainan",
+    "routes": "China → Japan and Korea via Buddhist monasteries → Southeast Asian adaptation → Western adoption via 20th-century vegetarian/health food movements",
+    "context": "Spread along Buddhist networks as a meat substitute for monastic diets. Its Western framing as 'health food' often erases 2000 years of Asian culinary sophistication."
   },
   "walnut": {
     "pairings": {
@@ -1247,7 +1265,10 @@
       "vegan",
       "vegetarian"
     ],
-    "type": "protein"
+    "type": "protein",
+    "origin": "Java, Indonesia; first documented in the early 1800s but likely older",
+    "routes": "Javanese fermentation tradition → Dutch colonial documentation → global spread via Indonesian diaspora and Western vegetarian movements",
+    "context": "One of the few fermented soy products to originate outside of China/Japan. Its spread maps Javanese labor migration patterns across Southeast Asia."
   },
   "onion": {
     "pairings": {
@@ -1337,7 +1358,10 @@
       "vegan",
       "vegetarian"
     ],
-    "type": "vegetable"
+    "type": "vegetable",
+    "origin": "Mesoamerica (Puebla, Mexico); domesticated ~5000 BCE by pre-Olmec peoples",
+    "routes": "Mesoamerican trade networks → Spanish colonial gardens → 20th-century California/global commodity",
+    "context": "Modern avocado demand drives deforestation in Michoacán and cartel-controlled production zones. A superfood economy built on ecological and labor exploitation."
   },
   "spinach": {
     "pairings": {
@@ -1443,7 +1467,10 @@
       "vegan",
       "vegetarian"
     ],
-    "type": "fruit"
+    "type": "fruit",
+    "origin": "Dual domestication — Southeast Asia and Pacific Islands; spread across tropics by Austronesian seafarers",
+    "routes": "Austronesian expansion across Indian/Pacific Oceans → Portuguese/Spanish colonial plantation crop → industrial copra trade",
+    "context": "Coconut economies defined colonial Pacific islands. Copra production created debt-labor systems that persisted long after formal colonialism ended."
   },
   "raspberry": {
     "pairings": {
@@ -1646,7 +1673,10 @@
       "vegan",
       "vegetarian"
     ],
-    "type": "spice"
+    "type": "spice",
+    "origin": "Southern China and northern Vietnam; used in Chinese medicine for over 3000 years",
+    "routes": "Chinese trade networks → integral to Chinese five-spice → reached Europe via Marco Polo-era trade → industrial demand for shikimic acid (Tamiflu precursor)",
+    "context": "Its modern pharmaceutical value (primary source of shikimic acid for antiviral drugs) created new extraction pressures on traditional growing regions."
   },
   "shallot": {
     "pairings": {
@@ -1682,7 +1712,10 @@
       "vegan",
       "vegetarian"
     ],
-    "type": "aromatic"
+    "type": "aromatic",
+    "origin": "South and Southeast Asia; cultivated across tropical monsoon regions for centuries",
+    "routes": "Southeast Asian staple → colonial-era essential oil trade (British India, Dutch East Indies) → global adoption via Thai/Vietnamese diaspora cuisines",
+    "context": "Colonial interest was primarily in its essential oil for perfume and insect repellent, not its culinary use. Its presence in Western kitchens traces post-Vietnam War diaspora migration."
   },
   "galangal": {
     "pairings": {
@@ -2875,7 +2908,10 @@
       "vegan",
       "vegetarian"
     ],
-    "type": "spice"
+    "type": "spice",
+    "origin": "Mediterranean and Middle East; used as a souring agent before lemons became widely available",
+    "routes": "Ancient Roman/Arab culinary traditions → remained central to Levantine and Iranian cooking → recent global adoption",
+    "context": "Functioned as the primary acidic seasoning in the pre-citrus Mediterranean. Its persistence in Levantine cooking preserves a pre-colonial flavor logic."
   },
   "mustard seed": {
     "pairings": {
@@ -3218,7 +3254,10 @@
       "vegan",
       "vegetarian"
     ],
-    "type": "legume"
+    "type": "legume",
+    "origin": "Mesoamerica; domesticated ~7000 years ago in present-day Mexico/Central America",
+    "routes": "Mesoamerican staple → Spanish colonial adoption → spread across Latin America and Caribbean",
+    "context": "Fundamental to Mesoamerican nutrition (beans + corn = complete protein). Colonial disruption of milpa agriculture undermined Indigenous food sovereignty."
   },
   "white bean": {
     "pairings": {
@@ -3358,7 +3397,10 @@
       "vegan",
       "vegetarian"
     ],
-    "type": "fermented"
+    "type": "fermented",
+    "origin": "Korea; fermented soybean paste tradition dating back to the Three Kingdoms period (~37 BCE)",
+    "routes": "Korean peninsula (predates and parallels Japanese miso) → remained largely regional until Korean diaspora and hallyu cultural exports",
+    "context": "Often overshadowed by Japanese miso in Western markets despite being an older, independent fermentation tradition. Korean food sovereignty discourse centers doenjang as culturally distinct from miso."
   },
   "white wine": {
     "pairings": {
@@ -3654,7 +3696,10 @@
       "vegan",
       "vegetarian"
     ],
-    "type": "vegetable"
+    "type": "vegetable",
+    "origin": "Southeast Asia; reached Africa ~3000 years ago, became a staple crop across the continent",
+    "routes": "Southeast Asia → East Africa via Austronesian/Indian Ocean trade → West Africa → Caribbean and Latin America via slave trade",
+    "context": "A staple of enslaved communities in the Caribbean. Its journey from Asia to Africa to the Americas mirrors the triangular trade itself."
   },
   "jerk seasoning": {
     "pairings": {
@@ -3689,7 +3734,10 @@
       "vegan",
       "vegetarian"
     ],
-    "type": "spice"
+    "type": "spice",
+    "origin": "Amazon basin; Capsicum chinense species domesticated in lowland South America",
+    "routes": "Amazonia → Caribbean via Indigenous trade and post-Columbian migration → became defining ingredient of Jamaican and West Indian cuisine",
+    "context": "Named by the British but rooted in Indigenous and African culinary traditions. Inseparable from jerk seasoning and Caribbean identity."
   },
   "ackee": {
     "pairings": {
@@ -3723,7 +3771,10 @@
       "vegan",
       "vegetarian"
     ],
-    "type": "vegetable"
+    "type": "vegetable",
+    "origin": "West Africa (possibly Ethiopia); cultivated across the Sahel and Gulf of Guinea for centuries",
+    "routes": "West Africa → Americas via the transatlantic slave trade → became foundational to Southern US, Caribbean, and Brazilian cooking",
+    "context": "One of the clearest food-links between West Africa and the Americas. Gumbo takes its name from the Bantu word for okra (ki ngombo). A survival crop that encoded African knowledge in New World kitchens."
   },
   "yam": {
     "pairings": {
@@ -3872,7 +3923,10 @@
       "vegan",
       "vegetarian"
     ],
-    "type": "spice"
+    "type": "spice",
+    "origin": "Ethiopia/Eritrea; complex spice blend whose chili component arrived via Indian Ocean and Portuguese trade",
+    "routes": "Indigenous Ethiopian spice tradition + New World chili → remained hyper-regional → Ethiopian diaspora restaurants spread it globally post-1970s",
+    "context": "The blend's complexity reflects Ethiopia's position at the crossroads of African, Arab, and Indian Ocean trade. Its spice composition encodes centuries of trade contact."
   },
   "ras el hanout": {
     "pairings": {
@@ -3890,7 +3944,10 @@
       "vegan",
       "vegetarian"
     ],
-    "type": "spice"
+    "type": "spice",
+    "origin": "Maghreb (Morocco, Tunisia, Algeria); name means 'head of the shop' — the spice merchant's best blend",
+    "routes": "Trans-Saharan and Mediterranean spice trade routes converge in North African souks → French colonial contact spread awareness to Europe",
+    "context": "Each merchant's blend is proprietary, encoding personal lineage and trade relationships. The blend itself is a map of North Africa's position in global spice networks."
   },
   "preserved lemon": {
     "pairings": {
@@ -3908,7 +3965,10 @@
       "vegan",
       "vegetarian"
     ],
-    "type": "fermented"
+    "type": "fermented",
+    "origin": "North Africa/Middle East; salt-preservation technique likely developed in Morocco and the Levant",
+    "routes": "Maghrebi and Levantine kitchens → Sephardic Jewish diaspora carried it across the Mediterranean → modern global adoption via Ottolenghi-era cookbook culture",
+    "context": "Its recent Western popularity traces directly to the commodification of Middle Eastern and North African cuisines by European food media."
   },
   "za'atar": {
     "pairings": {
@@ -3925,7 +3985,10 @@
       "vegan",
       "vegetarian"
     ],
-    "type": "spice"
+    "type": "spice",
+    "origin": "Levant/Eastern Mediterranean; wild thyme blend used for centuries across the region",
+    "routes": "Levantine foraging tradition → Palestinian, Lebanese, Syrian staple → diaspora and modern food culture spread it globally",
+    "context": "Palestinian za'atar foraging is actively restricted by Israeli land-access policies. A condiment that has become a symbol of Palestinian food sovereignty and land rights."
   },
   "dukkah": {
     "pairings": {
@@ -3960,7 +4023,10 @@
       "vegan",
       "vegetarian"
     ],
-    "type": "sweet"
+    "type": "sweet",
+    "origin": "Japan; sweet rice wine developed during the Sengoku period (15th-16th century), originally consumed as a drink",
+    "routes": "Japanese brewing tradition → transitioned from beverage to cooking ingredient during the Edo period → global spread via Japanese culinary exports",
+    "context": "Its evolution from luxury drink to kitchen staple maps changing class structures in Edo-period Japan. Industrial 'mirin-like' substitutes now dominate global markets, displacing traditional brewing."
   },
   "sake": {
     "pairings": {
@@ -3996,7 +4062,10 @@
       "vegan",
       "vegetarian"
     ],
-    "type": "umami"
+    "type": "umami",
+    "origin": "Japan; kombu (kelp) and katsuobushi (fermented bonito) combination codified during the Edo period",
+    "routes": "Remained almost exclusively Japanese until the 20th century → umami science (Ikeda, 1908) globalized the concept → now foundational to global fine dining",
+    "context": "Ikeda's isolation of glutamate from kombu dashi led to MSG — one of the most culturally contested food ingredients. Anti-MSG racism maps directly onto Western anxieties about Asian food."
   },
   "nori": {
     "pairings": {
@@ -4014,7 +4083,10 @@
       "vegan",
       "vegetarian"
     ],
-    "type": "umami"
+    "type": "umami",
+    "origin": "Japan; cultivated seaweed tradition dating back to the Edo period, wild-harvested much earlier",
+    "routes": "Japanese aquaculture innovation → became globally synonymous with sushi → Korean (gim) and Chinese traditions often overlooked",
+    "context": "Kathleen Drew-Baker's 1949 research on Porphyra reproduction saved Japan's collapsing nori industry. She is honored annually in Japan as 'Mother of the Sea.'"
   },
   "wasabi": {
     "pairings": {
@@ -4158,7 +4230,10 @@
       "vegan",
       "vegetarian"
     ],
-    "type": "aromatic"
+    "type": "aromatic",
+    "origin": "Southeast Asia; used across Malaysia, Indonesia, Thailand, and the Philippines for centuries",
+    "routes": "Regional Southeast Asian staple → spread across the Indian Ocean littoral → remains underknown in Western cuisines",
+    "context": "Called the 'vanilla of Southeast Asia' — a framing that centers Western reference points. Its absence from global markets reflects the uneven power dynamics of which flavors get exported."
   },
   "palm sugar": {
     "pairings": {
@@ -4211,7 +4286,10 @@
       "vegan",
       "vegetarian"
     ],
-    "type": "fermented"
+    "type": "fermented",
+    "origin": "Indonesia/Malaysia; chili-based condiment family developed after Columbian Exchange brought chilies to Southeast Asia",
+    "routes": "Southeast Asian adaptation of New World chilies → Dutch colonial documentation → spread across former Dutch East Indies → global via Indonesian/Malaysian diaspora",
+    "context": "Hundreds of regional sambals exist, each encoding local ingredients and technique. Colonial-era trade standardized some variants while others remain hyper-local knowledge."
   },
   "paneer": {
     "pairings": {
@@ -4244,7 +4322,10 @@
       "vegan",
       "vegetarian"
     ],
-    "type": "herb"
+    "type": "herb",
+    "origin": "Indian subcontinent; native to the Indian peninsula, used in Ayurvedic and Tamil traditions for millennia",
+    "routes": "South Indian staple → spread across South and Southeast Asia via Tamil diaspora and Indian Ocean trade → remains fresh-only (doesn't dry well), limiting global export",
+    "context": "Its resistance to commodification (loses flavor when dried) has kept it rooted in diasporic communities. Where fresh curry leaves are available maps South Asian migration patterns."
   },
   "asafoetida": {
     "pairings": {
@@ -4279,7 +4360,10 @@
       "vegan",
       "vegetarian"
     ],
-    "type": "sweet"
+    "type": "sweet",
+    "origin": "Indian subcontinent; unrefined cane sugar produced for millennia, predating refined sugar processing",
+    "routes": "South and Southeast Asian production → remained local/regional → now positioned as 'artisanal' alternative to refined sugar in global markets",
+    "context": "Predates and was displaced by colonial refined sugar industries. Its current 'rediscovery' by Western markets follows the same pattern as other decolonized ingredients being repackaged as premium goods."
   },
   "chatni": {
     "pairings": {
