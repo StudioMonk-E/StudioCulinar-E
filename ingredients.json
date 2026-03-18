@@ -1,0 +1,1402 @@
+{
+  "fish sauce": {
+    "pairings": {
+      "lime": 0.7,
+      "chili": 0.7,
+      "garlic": 0.6,
+      "sugar": 0.5,
+      "pineapple": 0.5
+    },
+    "taste": ["savoury", "umami"],
+    "diet": [],
+    "type": "umami"
+  },
+
+  "anchovy": {
+    "pairings": {
+      "tomato": 0.8,
+      "garlic": 0.7,
+      "olive oil": 0.7,
+      "lemon": 0.6,
+      "butter": 0.5
+    },
+    "taste": ["savoury", "umami"],
+    "diet": [],
+    "type": "protein"
+  },
+
+  "kimchi": {
+    "pairings": {
+      "soy sauce": 0.7,
+      "sesame oil": 0.6,
+      "egg": 0.6,
+      "tofu": 0.7,
+      "rice": 0.6
+    },
+    "taste": ["savoury", "spicy", "acidic"],
+    "diet": ["vegetarian"],
+    "type": "fermented"
+  },
+
+  "sauerkraut": {
+    "pairings": {
+      "apple": 0.7,
+      "mustard": 0.7,
+      "pork": 0.8,
+      "butter": 0.5,
+      "caraway": 0.6
+    },
+    "taste": ["acidic", "savoury"],
+    "diet": ["vegan", "vegetarian"],
+    "type": "fermented"
+  },
+
+  "blue cheese": {
+    "pairings": {
+      "honey": 0.7,
+      "pear": 0.8,
+      "walnut": 0.7,
+      "butter": 0.5,
+      "thyme": 0.5
+    },
+    "taste": ["savoury", "umami"],
+    "diet": ["vegetarian"],
+    "type": "dairy"
+  },
+
+  "kefir": {
+    "pairings": {
+      "honey": 0.7,
+      "cucumber": 0.6,
+      "mint": 0.6,
+      "lemon": 0.5,
+      "strawberry": 0.5
+    },
+    "taste": ["acidic", "fresh"],
+    "diet": ["vegetarian"],
+    "type": "fermented"
+  },
+
+  "gochujang": {
+    "pairings": {
+      "soy sauce": 0.7,
+      "garlic": 0.6,
+      "honey": 0.6,
+      "egg": 0.6,
+      "tofu": 0.7
+    },
+    "taste": ["savoury", "spicy", "sweet"],
+    "diet": ["vegetarian"],
+    "type": "fermented"
+  },
+
+  "chicken": {
+    "pairings": {
+      "lemon": 0.7,
+      "garlic": 0.7,
+      "thyme": 0.6,
+      "butter": 0.6,
+      "soy sauce": 0.6
+    },
+    "taste": ["savoury"],
+    "diet": [],
+    "type": "protein"
+  },
+
+  "shrimp": {
+    "pairings": {
+      "lime": 0.7,
+      "garlic": 0.7,
+      "chili": 0.6,
+      "butter": 0.6,
+      "soy sauce": 0.6
+    },
+    "taste": ["savoury", "umami"],
+    "diet": [],
+    "type": "protein"
+  },
+
+  "lentils": {
+    "pairings": {
+      "cumin": 0.7,
+      "garlic": 0.6,
+      "lemon": 0.6,
+      "yoghurt": 0.6,
+      "olive oil": 0.5
+    },
+    "taste": ["savoury"],
+    "diet": ["vegan", "vegetarian"],
+    "type": "protein"
+  },
+
+  "yoghurt": {
+    "pairings": {
+      "honey": 0.7,
+      "cucumber": 0.7,
+      "lemon": 0.6,
+      "mint": 0.7,
+      "garlic": 0.6
+    },
+    "taste": ["savoury", "acidic"],
+    "diet": ["vegetarian"],
+    "type": "dairy"
+  },
+
+  "tahini": {
+    "pairings": {
+      "lemon": 0.8,
+      "honey": 0.6,
+      "garlic": 0.7,
+      "chickpeas": 0.9,
+      "cinnamon": 0.5
+    },
+    "taste": ["savoury", "bitter"],
+    "diet": ["vegan", "vegetarian"],
+    "type": "fat"
+  },
+
+  "peanut butter": {
+    "pairings": {
+      "chocolate": 0.8,
+      "soy sauce": 0.6,
+      "honey": 0.7,
+      "lime": 0.6,
+      "chili": 0.6
+    },
+    "taste": ["sweet", "savoury"],
+    "diet": ["vegan", "vegetarian"],
+    "type": "fat"
+  },
+
+  "mushroom": {
+    "pairings": {
+      "miso": 0.8,
+      "thyme": 0.7,
+      "garlic": 0.7,
+      "soy sauce": 0.6,
+      "butter": 0.6
+    },
+    "taste": ["savoury", "umami"],
+    "diet": ["vegan", "vegetarian"],
+    "type": "vegetable"
+  },
+
+  "chickpeas": {
+    "pairings": {
+      "tahini": 0.9,
+      "lemon": 0.7,
+      "cumin": 0.7,
+      "olive oil": 0.6,
+      "garlic": 0.6
+    },
+    "taste": ["savoury"],
+    "diet": ["vegan", "vegetarian"],
+    "type": "protein"
+  },
+
+  "egg": {
+    "pairings": {
+      "mushroom": 0.7,
+      "soy sauce": 0.6,
+      "butter": 0.7,
+      "parmesan": 0.7,
+      "honey": 0.4
+    },
+    "taste": ["savoury", "umami"],
+    "diet": ["vegetarian"],
+    "type": "protein"
+  },
+
+  "butter": {
+    "pairings": {
+      "mushroom": 0.6,
+      "egg": 0.7,
+      "lemon": 0.5,
+      "honey": 0.6,
+      "thyme": 0.6
+    },
+    "taste": ["savoury"],
+    "diet": ["vegetarian"],
+    "type": "fat"
+  },
+
+  "cucumber": {
+    "pairings": {
+      "yoghurt": 0.7,
+      "mint": 0.8,
+      "lime": 0.6,
+      "soy sauce": 0.4,
+      "chili": 0.5
+    },
+    "taste": ["fresh", "savoury"],
+    "diet": ["vegan", "vegetarian"],
+    "type": "vegetable"
+  },
+
+  "cumin": {
+    "pairings": {
+      "chickpeas": 0.7,
+      "lime": 0.6,
+      "yoghurt": 0.6,
+      "chili": 0.7,
+      "cinnamon": 0.5
+    },
+    "taste": ["savoury", "bitter"],
+    "diet": ["vegan", "vegetarian"],
+    "type": "spice"
+  },
+
+  "pineapple": {
+    "pairings": {
+      "chili": 0.7,
+      "lime": 0.7,
+      "soy sauce": 0.5,
+      "coconut milk": 0.6,
+      "mint": 0.5
+    },
+    "taste": ["sweet", "acidic"],
+    "diet": ["vegan", "vegetarian"],
+    "type": "fruit"
+  },
+
+  "coconut milk": {
+  "pairings": {
+    "lime": 0.7,
+    "ginger": 0.7,
+    "chili": 0.7,
+    "cinnamon": 0.6,
+    "pineapple": 0.6
+  },
+  "taste": ["sweet", "savoury"],
+  "diet": ["vegan", "vegetarian"],
+  "type": "fat"
+ },
+
+  "miso": {
+  "pairings": {
+    "soy sauce": 0.8,
+    "ginger": 0.7,
+    "mushroom": 0.8,
+    "eggplant": 0.6,
+    "honey": 0.5
+  },
+  "taste": ["savoury", "umami"],
+  "diet": ["vegan", "vegetarian"],
+  "type": "umami"
+ },
+
+  "honey": {
+  "pairings": {
+    "lemon": 0.7,
+    "yoghurt": 0.7,
+    "cinnamon": 0.7,
+    "mustard": 0.5,
+    "chili": 0.5
+  },
+  "taste": ["sweet"],
+  "diet": ["vegetarian"],
+  "type": "sweet"
+ },
+
+  "cardamom": {
+  "pairings": {
+    "orange": 0.7,
+    "coffee": 0.7,
+    "rice": 0.6,
+    "chocolate": 0.6,
+    "ginger": 0.6
+  },
+  "taste": ["sweet", "spicy"],
+  "diet": ["vegan", "vegetarian"],
+  "type": "spice"
+ },
+
+  "cinnamon": {
+  "pairings": {
+    "apple": 0.9,
+    "chocolate": 0.7,
+    "honey": 0.7,
+    "lamb": 0.5,
+    "orange": 0.7
+  },
+  "taste": ["sweet", "spicy"],
+  "diet": ["vegan", "vegetarian"],
+  "type": "spice"
+ },
+
+  "apple cider vinegar": {
+  "pairings": {
+    "apple": 0.8,
+    "honey": 0.7,
+    "mustard": 0.6,
+    "olive oil": 0.6,
+    "cabbage": 0.7
+  },
+  "taste": ["acidic", "sweet"],
+  "diet": ["vegan", "vegetarian"],
+  "type": "acid"
+ },
+
+  "lime": {
+  "pairings": {
+    "ginger": 0.8,
+    "chili": 0.7,
+    "coconut milk": 0.7,
+    "mint": 0.7,
+    "soy sauce": 0.6
+  },
+  "taste": ["acidic", "fresh"],
+  "diet": ["vegan", "vegetarian"],
+  "type": "acid"
+ },
+
+  "oregano": {
+  "pairings": {
+    "tomato": 0.8,
+    "olive oil": 0.7,
+    "lemon": 0.5,
+    "feta": 0.6,
+    "chili": 0.5
+  },
+  "taste": ["savoury", "bitter"],
+  "diet": ["vegan", "vegetarian"],
+  "type": "herb"
+ },
+  
+  "rosemary": {
+  "pairings": {
+    "olive oil": 0.7,
+    "lemon": 0.6,
+    "potato": 0.7,
+    "orange": 0.5,
+    "lamb": 0.6
+  },
+  "taste": ["savoury", "bitter"],
+  "diet": ["vegan", "vegetarian"],
+  "type": "herb"
+ },
+
+  "thyme": {
+  "pairings": {
+    "tomato": 0.7,
+    "lemon": 0.6,
+    "mushroom": 0.7,
+    "chicken": 0.6,
+    "honey": 0.5
+  },
+  "taste": ["savoury", "fresh"],
+  "diet": ["vegan", "vegetarian"],
+  "type": "herb"
+ },
+
+  "basil": {
+    "pairings": {
+      "tomato": 0.9,
+      "strawberry": 0.8,
+      "lemon": 0.6,
+      "parmesan": 0.7,
+      "peach": 0.6
+    },
+    "taste": ["savoury", "fresh"],
+    "diet": ["vegan", "vegetarian"],
+    "type": "herb"
+  },
+
+  "mint": {
+    "pairings": {
+      "strawberry": 0.8,
+      "chocolate": 0.7,
+      "lamb": 0.6,
+      "lemon": 0.7,
+      "cucumber": 0.8
+    },
+    "taste": ["fresh", "sweet"],
+    "diet": ["vegan", "vegetarian"],
+    "type": "herb"
+  },
+
+  "tomato": {
+    "pairings": {
+      "basil": 0.9,
+      "garlic": 0.8,
+      "olive oil": 0.7,
+      "strawberry": 0.4,
+      "balsamic vinegar": 0.7
+    },
+    "taste": ["sweet", "savoury", "acidic"],
+    "diet": ["vegan", "vegetarian"],
+    "type": "vegetable"
+  },
+
+  "strawberry": {
+    "pairings": {
+      "basil": 0.8,
+      "mint": 0.8,
+      "balsamic vinegar": 0.9,
+      "black pepper": 0.6,
+      "tomato": 0.4
+    },
+    "taste": ["sweet", "acidic"],
+    "diet": ["vegan", "vegetarian"],
+    "type": "fruit"
+  },
+
+  "lemon": {
+    "pairings": {
+      "basil": 0.6,
+      "mint": 0.7,
+      "salmon": 0.8,
+      "garlic": 0.6,
+      "olive oil": 0.7
+    },
+    "taste": ["acidic", "fresh"],
+    "diet": ["vegan", "vegetarian"],
+    "type": "acid"
+  },
+
+  "balsamic vinegar": {
+    "pairings": {
+      "strawberry": 0.9,
+      "tomato": 0.7,
+      "peach": 0.7,
+      "parmesan": 0.6
+    },
+    "taste": ["sweet", "acidic"],
+    "diet": ["vegan", "vegetarian"],
+    "type": "acid"
+  },
+
+  "garlic": {
+    "pairings": {
+      "tomato": 0.8,
+      "olive oil": 0.9,
+      "lemon": 0.6,
+      "soy sauce": 0.6
+    },
+    "taste": ["savoury", "umami"],
+    "diet": ["vegan", "vegetarian"],
+    "type": "aromatic"
+  },
+
+  "ginger": {
+    "pairings": {
+      "soy sauce": 0.8,
+      "lime": 0.8,
+      "chocolate": 0.5,
+      "orange": 0.7
+    },
+    "taste": ["spicy", "sweet"],
+    "diet": ["vegan", "vegetarian"],
+    "type": "aromatic"
+  },
+
+  "olive oil": {
+    "pairings": {
+      "tomato": 0.7,
+      "garlic": 0.9,
+      "lemon": 0.7,
+      "parmesan": 0.6
+    },
+    "taste": ["savoury"],
+    "diet": ["vegan", "vegetarian"],
+    "type": "fat"
+  },
+
+  "parmesan": {
+    "pairings": {
+      "basil": 0.7,
+      "tomato": 0.8,
+      "balsamic vinegar": 0.6
+    },
+    "taste": ["savoury", "umami"],
+    "diet": ["vegetarian"],
+    "type": "cheese"
+  },
+
+  "black pepper": {
+    "pairings": {
+      "strawberry": 0.6,
+      "tomato": 0.6,
+      "chocolate": 0.7
+    },
+    "taste": ["spicy", "savoury"],
+    "diet": ["vegan", "vegetarian"],
+    "type": "spice"
+  },
+
+  "chocolate": {
+    "pairings": {
+      "mint": 0.7,
+      "black pepper": 0.7,
+      "orange": 0.8,
+      "ginger": 0.5
+    },
+    "taste": ["sweet", "bitter"],
+    "diet": ["vegetarian"],
+    "type": "sweet"
+  },
+
+  "orange": {
+    "pairings": {
+      "chocolate": 0.8,
+      "ginger": 0.7,
+      "olive oil": 0.4
+    },
+    "taste": ["sweet", "acidic"],
+    "diet": ["vegan", "vegetarian"],
+    "type": "fruit"
+  },
+
+  "peach": {
+    "pairings": {
+      "basil": 0.6,
+      "balsamic vinegar": 0.7,
+      "mint": 0.6
+    },
+    "taste": ["sweet"],
+    "diet": ["vegan", "vegetarian"],
+    "type": "fruit"
+  },
+
+  "soy sauce": {
+    "pairings": {
+      "ginger": 0.8,
+      "garlic": 0.6,
+      "salmon": 0.7
+    },
+    "taste": ["savoury", "umami"],
+    "diet": ["vegan", "vegetarian"],
+    "type": "umami"
+  },
+
+  "salmon": {
+    "pairings": {
+      "lemon": 0.8,
+      "soy sauce": 0.7,
+      "ginger": 0.6
+    },
+    "taste": ["savoury", "umami"],
+    "diet": [],
+    "type": "protein"
+  },
+
+  "apple": {
+    "pairings": {
+      "cinnamon": 0.9,
+      "honey": 0.7,
+      "ginger": 0.6,
+      "pork": 0.7,
+      "walnut": 0.6
+    },
+    "taste": ["sweet", "acidic"],
+    "diet": ["vegan", "vegetarian"],
+    "type": "fruit"
+  },
+
+  "cabbage": {
+    "pairings": {
+      "apple cider vinegar": 0.7,
+      "caraway": 0.6,
+      "mustard": 0.6,
+      "sesame oil": 0.5,
+      "ginger": 0.5
+    },
+    "taste": ["savoury", "fresh"],
+    "diet": ["vegan", "vegetarian"],
+    "type": "vegetable"
+  },
+
+  "caraway": {
+    "pairings": {
+      "sauerkraut": 0.6,
+      "cabbage": 0.6,
+      "potato": 0.5,
+      "mustard": 0.5,
+      "onion": 0.5
+    },
+    "taste": ["savoury", "bitter"],
+    "diet": ["vegan", "vegetarian"],
+    "type": "spice"
+  },
+
+  "chili": {
+    "pairings": {
+      "lime": 0.7,
+      "chocolate": 0.7,
+      "garlic": 0.7,
+      "mango": 0.7,
+      "honey": 0.5
+    },
+    "taste": ["spicy", "savoury"],
+    "diet": ["vegan", "vegetarian"],
+    "type": "spice"
+  },
+
+  "coffee": {
+    "pairings": {
+      "cardamom": 0.7,
+      "chocolate": 0.8,
+      "cinnamon": 0.6,
+      "vanilla": 0.8,
+      "walnut": 0.5
+    },
+    "taste": ["bitter", "sweet"],
+    "diet": ["vegan", "vegetarian"],
+    "type": "aromatic"
+  },
+
+  "eggplant": {
+    "pairings": {
+      "miso": 0.6,
+      "garlic": 0.7,
+      "tomato": 0.7,
+      "tahini": 0.7,
+      "olive oil": 0.6
+    },
+    "taste": ["savoury"],
+    "diet": ["vegan", "vegetarian"],
+    "type": "vegetable"
+  },
+
+  "feta": {
+    "pairings": {
+      "oregano": 0.6,
+      "tomato": 0.7,
+      "olive oil": 0.6,
+      "honey": 0.6,
+      "cucumber": 0.6
+    },
+    "taste": ["savoury", "acidic"],
+    "diet": ["vegetarian"],
+    "type": "cheese"
+  },
+
+  "lamb": {
+    "pairings": {
+      "rosemary": 0.6,
+      "mint": 0.6,
+      "cinnamon": 0.5,
+      "garlic": 0.7,
+      "cumin": 0.7
+    },
+    "taste": ["savoury", "umami"],
+    "diet": [],
+    "type": "protein"
+  },
+
+  "mustard": {
+    "pairings": {
+      "honey": 0.6,
+      "sauerkraut": 0.7,
+      "pork": 0.6,
+      "apple cider vinegar": 0.6,
+      "dill": 0.5
+    },
+    "taste": ["spicy", "acidic"],
+    "diet": ["vegan", "vegetarian"],
+    "type": "aromatic"
+  },
+
+  "pear": {
+    "pairings": {
+      "blue cheese": 0.8,
+      "walnut": 0.7,
+      "honey": 0.6,
+      "cinnamon": 0.6,
+      "ginger": 0.5
+    },
+    "taste": ["sweet", "fresh"],
+    "diet": ["vegan", "vegetarian"],
+    "type": "fruit"
+  },
+
+  "pork": {
+    "pairings": {
+      "sauerkraut": 0.8,
+      "apple": 0.7,
+      "garlic": 0.7,
+      "ginger": 0.7,
+      "soy sauce": 0.6
+    },
+    "taste": ["savoury", "umami"],
+    "diet": [],
+    "type": "protein"
+  },
+
+  "potato": {
+    "pairings": {
+      "rosemary": 0.7,
+      "butter": 0.7,
+      "garlic": 0.7,
+      "thyme": 0.6,
+      "olive oil": 0.6
+    },
+    "taste": ["savoury"],
+    "diet": ["vegan", "vegetarian"],
+    "type": "vegetable"
+  },
+
+  "rice": {
+    "pairings": {
+      "soy sauce": 0.7,
+      "kimchi": 0.6,
+      "coconut milk": 0.6,
+      "ginger": 0.6,
+      "lime": 0.5
+    },
+    "taste": ["savoury"],
+    "diet": ["vegan", "vegetarian"],
+    "type": "grain"
+  },
+
+  "sesame oil": {
+    "pairings": {
+      "soy sauce": 0.7,
+      "ginger": 0.7,
+      "garlic": 0.6,
+      "kimchi": 0.6,
+      "tofu": 0.7
+    },
+    "taste": ["savoury", "umami"],
+    "diet": ["vegan", "vegetarian"],
+    "type": "fat"
+  },
+
+  "sugar": {
+    "pairings": {
+      "fish sauce": 0.5,
+      "lime": 0.6,
+      "cinnamon": 0.6,
+      "vanilla": 0.8,
+      "butter": 0.7
+    },
+    "taste": ["sweet"],
+    "diet": ["vegan", "vegetarian"],
+    "type": "sweet"
+  },
+
+  "tofu": {
+    "pairings": {
+      "soy sauce": 0.7,
+      "gochujang": 0.7,
+      "sesame oil": 0.7,
+      "ginger": 0.6,
+      "mushroom": 0.6
+    },
+    "taste": ["savoury"],
+    "diet": ["vegan", "vegetarian"],
+    "type": "protein"
+  },
+
+  "walnut": {
+    "pairings": {
+      "blue cheese": 0.7,
+      "honey": 0.6,
+      "apple": 0.6,
+      "pear": 0.7,
+      "coffee": 0.5
+    },
+    "taste": ["bitter", "savoury"],
+    "diet": ["vegan", "vegetarian"],
+    "type": "fat"
+  },
+
+  "beef": {
+    "pairings": {
+      "garlic": 0.8,
+      "rosemary": 0.7,
+      "black pepper": 0.7,
+      "onion": 0.7,
+      "mushroom": 0.7
+    },
+    "taste": ["savoury", "umami"],
+    "diet": [],
+    "type": "protein"
+  },
+
+  "duck": {
+    "pairings": {
+      "orange": 0.8,
+      "cherry": 0.7,
+      "thyme": 0.6,
+      "honey": 0.6,
+      "star anise": 0.6
+    },
+    "taste": ["savoury", "umami"],
+    "diet": [],
+    "type": "protein"
+  },
+
+  "tuna": {
+    "pairings": {
+      "soy sauce": 0.8,
+      "sesame oil": 0.7,
+      "ginger": 0.7,
+      "avocado": 0.7,
+      "lime": 0.6
+    },
+    "taste": ["savoury", "umami"],
+    "diet": [],
+    "type": "protein"
+  },
+
+  "scallop": {
+    "pairings": {
+      "butter": 0.8,
+      "lemon": 0.7,
+      "bacon": 0.7,
+      "garlic": 0.6,
+      "corn": 0.6
+    },
+    "taste": ["savoury", "sweet"],
+    "diet": [],
+    "type": "protein"
+  },
+
+  "crab": {
+    "pairings": {
+      "butter": 0.8,
+      "lemon": 0.7,
+      "chili": 0.6,
+      "corn": 0.7,
+      "avocado": 0.6
+    },
+    "taste": ["savoury", "sweet"],
+    "diet": [],
+    "type": "protein"
+  },
+
+  "bacon": {
+    "pairings": {
+      "egg": 0.8,
+      "maple syrup": 0.7,
+      "tomato": 0.7,
+      "avocado": 0.6,
+      "onion": 0.6
+    },
+    "taste": ["savoury", "umami"],
+    "diet": [],
+    "type": "protein"
+  },
+
+  "chorizo": {
+    "pairings": {
+      "potato": 0.7,
+      "onion": 0.7,
+      "garlic": 0.7,
+      "tomato": 0.6,
+      "egg": 0.6
+    },
+    "taste": ["savoury", "spicy"],
+    "diet": [],
+    "type": "protein"
+  },
+
+  "tempeh": {
+    "pairings": {
+      "soy sauce": 0.7,
+      "ginger": 0.6,
+      "garlic": 0.6,
+      "sesame oil": 0.6,
+      "peanut butter": 0.6
+    },
+    "taste": ["savoury", "umami"],
+    "diet": ["vegan", "vegetarian"],
+    "type": "protein"
+  },
+
+  "onion": {
+    "pairings": {
+      "garlic": 0.8,
+      "butter": 0.7,
+      "thyme": 0.6,
+      "beef": 0.7,
+      "tomato": 0.7
+    },
+    "taste": ["savoury", "sweet"],
+    "diet": ["vegan", "vegetarian"],
+    "type": "vegetable"
+  },
+
+  "carrot": {
+    "pairings": {
+      "ginger": 0.7,
+      "cumin": 0.6,
+      "honey": 0.6,
+      "butter": 0.6,
+      "orange": 0.6
+    },
+    "taste": ["sweet", "savoury"],
+    "diet": ["vegan", "vegetarian"],
+    "type": "vegetable"
+  },
+
+  "bell pepper": {
+    "pairings": {
+      "onion": 0.7,
+      "garlic": 0.6,
+      "tomato": 0.7,
+      "olive oil": 0.6,
+      "feta": 0.6
+    },
+    "taste": ["sweet", "savoury"],
+    "diet": ["vegan", "vegetarian"],
+    "type": "vegetable"
+  },
+
+  "corn": {
+    "pairings": {
+      "butter": 0.8,
+      "lime": 0.7,
+      "chili": 0.6,
+      "crab": 0.7,
+      "cilantro": 0.6
+    },
+    "taste": ["sweet", "savoury"],
+    "diet": ["vegan", "vegetarian"],
+    "type": "vegetable"
+  },
+
+  "avocado": {
+    "pairings": {
+      "lime": 0.8,
+      "cilantro": 0.7,
+      "chili": 0.6,
+      "tomato": 0.7,
+      "soy sauce": 0.5
+    },
+    "taste": ["savoury", "fresh"],
+    "diet": ["vegan", "vegetarian"],
+    "type": "vegetable"
+  },
+
+  "spinach": {
+    "pairings": {
+      "garlic": 0.7,
+      "lemon": 0.6,
+      "nutmeg": 0.6,
+      "feta": 0.7,
+      "cream": 0.6
+    },
+    "taste": ["savoury", "bitter"],
+    "diet": ["vegan", "vegetarian"],
+    "type": "vegetable"
+  },
+
+  "cauliflower": {
+    "pairings": {
+      "turmeric": 0.7,
+      "garlic": 0.6,
+      "tahini": 0.6,
+      "cumin": 0.6,
+      "butter": 0.6
+    },
+    "taste": ["savoury"],
+    "diet": ["vegan", "vegetarian"],
+    "type": "vegetable"
+  },
+
+  "sweet potato": {
+    "pairings": {
+      "cinnamon": 0.7,
+      "butter": 0.7,
+      "maple syrup": 0.6,
+      "chili": 0.5,
+      "lime": 0.5
+    },
+    "taste": ["sweet", "savoury"],
+    "diet": ["vegan", "vegetarian"],
+    "type": "vegetable"
+  },
+
+  "mango": {
+    "pairings": {
+      "chili": 0.7,
+      "lime": 0.8,
+      "coconut milk": 0.7,
+      "cilantro": 0.6,
+      "rice": 0.7
+    },
+    "taste": ["sweet", "acidic"],
+    "diet": ["vegan", "vegetarian"],
+    "type": "fruit"
+  },
+
+  "banana": {
+    "pairings": {
+      "chocolate": 0.7,
+      "peanut butter": 0.8,
+      "cinnamon": 0.6,
+      "honey": 0.6,
+      "walnut": 0.6
+    },
+    "taste": ["sweet"],
+    "diet": ["vegan", "vegetarian"],
+    "type": "fruit"
+  },
+
+  "coconut": {
+    "pairings": {
+      "chocolate": 0.7,
+      "lime": 0.6,
+      "pineapple": 0.7,
+      "mango": 0.6,
+      "vanilla": 0.6
+    },
+    "taste": ["sweet", "savoury"],
+    "diet": ["vegan", "vegetarian"],
+    "type": "fruit"
+  },
+
+  "raspberry": {
+    "pairings": {
+      "chocolate": 0.8,
+      "lemon": 0.6,
+      "vanilla": 0.7,
+      "mint": 0.6,
+      "cream": 0.7
+    },
+    "taste": ["sweet", "acidic"],
+    "diet": ["vegan", "vegetarian"],
+    "type": "fruit"
+  },
+
+  "fig": {
+    "pairings": {
+      "goat cheese": 0.8,
+      "honey": 0.7,
+      "walnut": 0.7,
+      "balsamic vinegar": 0.7,
+      "cinnamon": 0.5
+    },
+    "taste": ["sweet"],
+    "diet": ["vegan", "vegetarian"],
+    "type": "fruit"
+  },
+
+  "cherry": {
+    "pairings": {
+      "chocolate": 0.8,
+      "vanilla": 0.6,
+      "walnut": 0.6,
+      "duck": 0.7,
+      "cinnamon": 0.5
+    },
+    "taste": ["sweet", "acidic"],
+    "diet": ["vegan", "vegetarian"],
+    "type": "fruit"
+  },
+
+  "cilantro": {
+    "pairings": {
+      "lime": 0.8,
+      "chili": 0.7,
+      "avocado": 0.7,
+      "garlic": 0.6,
+      "cumin": 0.6
+    },
+    "taste": ["fresh", "savoury"],
+    "diet": ["vegan", "vegetarian"],
+    "type": "herb"
+  },
+
+  "dill": {
+    "pairings": {
+      "salmon": 0.8,
+      "lemon": 0.7,
+      "yoghurt": 0.6,
+      "cucumber": 0.7,
+      "mustard": 0.5
+    },
+    "taste": ["fresh", "savoury"],
+    "diet": ["vegan", "vegetarian"],
+    "type": "herb"
+  },
+
+  "parsley": {
+    "pairings": {
+      "lemon": 0.7,
+      "garlic": 0.7,
+      "olive oil": 0.6,
+      "tomato": 0.6,
+      "butter": 0.5
+    },
+    "taste": ["fresh", "savoury"],
+    "diet": ["vegan", "vegetarian"],
+    "type": "herb"
+  },
+
+  "turmeric": {
+    "pairings": {
+      "black pepper": 0.8,
+      "ginger": 0.7,
+      "coconut milk": 0.7,
+      "cumin": 0.6,
+      "cauliflower": 0.7
+    },
+    "taste": ["bitter", "savoury"],
+    "diet": ["vegan", "vegetarian"],
+    "type": "spice"
+  },
+
+  "paprika": {
+    "pairings": {
+      "garlic": 0.7,
+      "onion": 0.6,
+      "tomato": 0.6,
+      "chicken": 0.6,
+      "cream": 0.6
+    },
+    "taste": ["sweet", "savoury"],
+    "diet": ["vegan", "vegetarian"],
+    "type": "spice"
+  },
+
+  "nutmeg": {
+    "pairings": {
+      "spinach": 0.6,
+      "cream": 0.7,
+      "butter": 0.6,
+      "cinnamon": 0.6,
+      "sweet potato": 0.5
+    },
+    "taste": ["sweet", "spicy"],
+    "diet": ["vegan", "vegetarian"],
+    "type": "spice"
+  },
+
+  "clove": {
+    "pairings": {
+      "cinnamon": 0.7,
+      "orange": 0.7,
+      "honey": 0.5,
+      "pork": 0.6,
+      "apple": 0.6
+    },
+    "taste": ["sweet", "spicy"],
+    "diet": ["vegan", "vegetarian"],
+    "type": "spice"
+  },
+
+  "star anise": {
+    "pairings": {
+      "soy sauce": 0.7,
+      "ginger": 0.6,
+      "cinnamon": 0.6,
+      "duck": 0.6,
+      "pork": 0.6
+    },
+    "taste": ["sweet", "spicy"],
+    "diet": ["vegan", "vegetarian"],
+    "type": "spice"
+  },
+
+  "shallot": {
+    "pairings": {
+      "butter": 0.7,
+      "balsamic vinegar": 0.7,
+      "thyme": 0.6,
+      "garlic": 0.6,
+      "mushroom": 0.6
+    },
+    "taste": ["savoury", "sweet"],
+    "diet": ["vegan", "vegetarian"],
+    "type": "aromatic"
+  },
+
+  "lemongrass": {
+    "pairings": {
+      "coconut milk": 0.8,
+      "ginger": 0.7,
+      "chili": 0.6,
+      "lime": 0.7,
+      "shrimp": 0.6
+    },
+    "taste": ["fresh", "acidic"],
+    "diet": ["vegan", "vegetarian"],
+    "type": "aromatic"
+  },
+
+  "galangal": {
+    "pairings": {
+      "coconut milk": 0.7,
+      "lemongrass": 0.7,
+      "lime": 0.6,
+      "chili": 0.6,
+      "shrimp": 0.5
+    },
+    "taste": ["spicy", "fresh"],
+    "diet": ["vegan", "vegetarian"],
+    "type": "aromatic"
+  },
+
+  "ghee": {
+    "pairings": {
+      "cumin": 0.7,
+      "turmeric": 0.6,
+      "rice": 0.6,
+      "lentils": 0.7,
+      "cardamom": 0.6
+    },
+    "taste": ["savoury"],
+    "diet": ["vegetarian"],
+    "type": "fat"
+  },
+
+  "coconut oil": {
+    "pairings": {
+      "lime": 0.6,
+      "ginger": 0.6,
+      "turmeric": 0.6,
+      "banana": 0.5,
+      "sweet potato": 0.5
+    },
+    "taste": ["sweet", "savoury"],
+    "diet": ["vegan", "vegetarian"],
+    "type": "fat"
+  },
+
+  "sesame seeds": {
+    "pairings": {
+      "soy sauce": 0.7,
+      "honey": 0.6,
+      "ginger": 0.6,
+      "sesame oil": 0.8,
+      "cucumber": 0.5
+    },
+    "taste": ["savoury"],
+    "diet": ["vegan", "vegetarian"],
+    "type": "fat"
+  },
+
+  "rice vinegar": {
+    "pairings": {
+      "soy sauce": 0.7,
+      "ginger": 0.7,
+      "sesame oil": 0.6,
+      "sugar": 0.6,
+      "cucumber": 0.6
+    },
+    "taste": ["acidic", "sweet"],
+    "diet": ["vegan", "vegetarian"],
+    "type": "acid"
+  },
+
+  "tamarind": {
+    "pairings": {
+      "chili": 0.7,
+      "sugar": 0.6,
+      "fish sauce": 0.7,
+      "peanut butter": 0.6,
+      "lime": 0.6
+    },
+    "taste": ["acidic", "sweet"],
+    "diet": ["vegan", "vegetarian"],
+    "type": "acid"
+  },
+
+  "worcestershire sauce": {
+    "pairings": {
+      "beef": 0.7,
+      "tomato": 0.6,
+      "onion": 0.5,
+      "garlic": 0.5,
+      "lemon": 0.5
+    },
+    "taste": ["savoury", "umami"],
+    "diet": [],
+    "type": "fermented"
+  },
+
+  "harissa": {
+    "pairings": {
+      "yoghurt": 0.7,
+      "lamb": 0.7,
+      "chickpeas": 0.6,
+      "olive oil": 0.6,
+      "lemon": 0.6
+    },
+    "taste": ["spicy", "savoury"],
+    "diet": ["vegan", "vegetarian"],
+    "type": "fermented"
+  },
+
+  "cream": {
+    "pairings": {
+      "mushroom": 0.7,
+      "garlic": 0.6,
+      "lemon": 0.5,
+      "vanilla": 0.7,
+      "strawberry": 0.7
+    },
+    "taste": ["savoury", "sweet"],
+    "diet": ["vegetarian"],
+    "type": "dairy"
+  },
+
+  "goat cheese": {
+    "pairings": {
+      "fig": 0.8,
+      "honey": 0.7,
+      "spinach": 0.6,
+      "walnut": 0.6,
+      "thyme": 0.6
+    },
+    "taste": ["savoury", "acidic"],
+    "diet": ["vegetarian"],
+    "type": "cheese"
+  },
+
+  "oyster sauce": {
+    "pairings": {
+      "soy sauce": 0.7,
+      "garlic": 0.7,
+      "ginger": 0.6,
+      "mushroom": 0.6,
+      "sesame oil": 0.6
+    },
+    "taste": ["savoury", "umami"],
+    "diet": [],
+    "type": "umami"
+  },
+
+  "sriracha": {
+    "pairings": {
+      "lime": 0.7,
+      "soy sauce": 0.6,
+      "honey": 0.6,
+      "garlic": 0.6,
+      "egg": 0.5
+    },
+    "taste": ["spicy", "savoury"],
+    "diet": ["vegan", "vegetarian"],
+    "type": "umami"
+  },
+
+  "maple syrup": {
+    "pairings": {
+      "bacon": 0.7,
+      "butter": 0.7,
+      "cinnamon": 0.6,
+      "walnut": 0.6,
+      "sweet potato": 0.6
+    },
+    "taste": ["sweet"],
+    "diet": ["vegan", "vegetarian"],
+    "type": "sweet"
+  },
+
+  "vanilla": {
+    "pairings": {
+      "chocolate": 0.8,
+      "strawberry": 0.7,
+      "coffee": 0.8,
+      "cream": 0.7,
+      "sugar": 0.8
+    },
+    "taste": ["sweet"],
+    "diet": ["vegan", "vegetarian"],
+    "type": "sweet"
+  }
+}
+
